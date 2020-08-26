@@ -1,0 +1,5293 @@
+[
+    {
+        "id": "5f1f7c9187cc5d12b7e27df9",
+        "data": "06/04/2018",
+        "paciente": "Antonia Bowman",
+        "procedimento": "red",
+        "valor_cirurgia": "2,440.17",
+        "valor_outros": "1,199.30",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "04/05/2019",
+                "valor": 420.95,
+                "pago": false
+            },
+            {
+                "vencimento": "26/01/2017",
+                "valor": 256.1,
+                "pago": false
+            },
+            {
+                "vencimento": "22/03/2017",
+                "valor": 116.15,
+                "pago": false
+            },
+            {
+                "vencimento": "29/04/2014",
+                "valor": 223.38,
+                "pago": false
+            },
+            {
+                "vencimento": "21/12/2015",
+                "valor": 289.86,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9169dec5b1608bdd58",
+        "data": "24/07/2019",
+        "paciente": "Price Velez",
+        "procedimento": "green",
+        "valor_cirurgia": "2,794.84",
+        "valor_outros": "1,768.36",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "29/05/2016",
+                "valor": 391.2,
+                "pago": false
+            },
+            {
+                "vencimento": "02/07/2019",
+                "valor": 266.43,
+                "pago": false
+            },
+            {
+                "vencimento": "04/04/2019",
+                "valor": 370.89,
+                "pago": false
+            },
+            {
+                "vencimento": "22/12/2019",
+                "valor": 137.78,
+                "pago": false
+            },
+            {
+                "vencimento": "26/04/2020",
+                "valor": 474.68,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9162a41ec2abd33228",
+        "data": "22/05/2015",
+        "paciente": "Kendra Chapman",
+        "procedimento": "green",
+        "valor_cirurgia": "1,671.75",
+        "valor_outros": "2,674.52",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "29/04/2015",
+                "valor": 326.06,
+                "pago": false
+            },
+            {
+                "vencimento": "30/03/2017",
+                "valor": 124,
+                "pago": false
+            },
+            {
+                "vencimento": "02/09/2017",
+                "valor": 128.81,
+                "pago": false
+            },
+            {
+                "vencimento": "14/06/2016",
+                "valor": 144.43,
+                "pago": false
+            },
+            {
+                "vencimento": "22/10/2017",
+                "valor": 346.44,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9108fdcd65a34b163a",
+        "data": "15/08/2016",
+        "paciente": "Gabrielle Mercer",
+        "procedimento": "green",
+        "valor_cirurgia": "1,050.21",
+        "valor_outros": "3,234.92",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "17/11/2016",
+                "valor": 287.23,
+                "pago": false
+            },
+            {
+                "vencimento": "31/08/2019",
+                "valor": 412.53,
+                "pago": false
+            },
+            {
+                "vencimento": "16/12/2016",
+                "valor": 107.46,
+                "pago": false
+            },
+            {
+                "vencimento": "28/09/2015",
+                "valor": 118.5,
+                "pago": false
+            },
+            {
+                "vencimento": "20/09/2016",
+                "valor": 227.25,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91e920b36ccc1bef94",
+        "data": "09/04/2017",
+        "paciente": "Horn Bush",
+        "procedimento": "red",
+        "valor_cirurgia": "3,824.16",
+        "valor_outros": "3,367.63",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "11/09/2018",
+                "valor": 253.03,
+                "pago": false
+            },
+            {
+                "vencimento": "25/06/2016",
+                "valor": 478.53,
+                "pago": false
+            },
+            {
+                "vencimento": "25/02/2018",
+                "valor": 227.74,
+                "pago": false
+            },
+            {
+                "vencimento": "05/08/2014",
+                "valor": 240.28,
+                "pago": false
+            },
+            {
+                "vencimento": "04/02/2016",
+                "valor": 150.13,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c911689c7399954b561",
+        "data": "19/11/2016",
+        "paciente": "Hopper Tucker",
+        "procedimento": "yellow",
+        "valor_cirurgia": "3,273.40",
+        "valor_outros": "3,040.47",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "18/01/2017",
+                "valor": 102.75,
+                "pago": false
+            },
+            {
+                "vencimento": "10/05/2017",
+                "valor": 424.89,
+                "pago": false
+            },
+            {
+                "vencimento": "22/02/2014",
+                "valor": 126.01,
+                "pago": false
+            },
+            {
+                "vencimento": "21/02/2014",
+                "valor": 446.17,
+                "pago": false
+            },
+            {
+                "vencimento": "08/05/2015",
+                "valor": 260.51,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91a159a78d56c40f11",
+        "data": "20/04/2017",
+        "paciente": "Stuart Beck",
+        "procedimento": "blue",
+        "valor_cirurgia": "1,111.03",
+        "valor_outros": "1,930.12",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "31/10/2016",
+                "valor": 212.13,
+                "pago": false
+            },
+            {
+                "vencimento": "30/01/2014",
+                "valor": 390.65,
+                "pago": false
+            },
+            {
+                "vencimento": "09/12/2018",
+                "valor": 273.74,
+                "pago": false
+            },
+            {
+                "vencimento": "21/08/2017",
+                "valor": 452.27,
+                "pago": false
+            },
+            {
+                "vencimento": "31/10/2015",
+                "valor": 326.54,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91604d90127c1ef895",
+        "data": "16/12/2018",
+        "paciente": "Robyn Pierce",
+        "procedimento": "green",
+        "valor_cirurgia": "2,121.75",
+        "valor_outros": "2,927.73",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "14/02/2016",
+                "valor": 151.42,
+                "pago": false
+            },
+            {
+                "vencimento": "07/02/2015",
+                "valor": 179.71,
+                "pago": false
+            },
+            {
+                "vencimento": "22/10/2018",
+                "valor": 410.86,
+                "pago": false
+            },
+            {
+                "vencimento": "05/11/2014",
+                "valor": 316.25,
+                "pago": false
+            },
+            {
+                "vencimento": "10/06/2019",
+                "valor": 388.05,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c915337e7d6334ade87",
+        "data": "23/09/2017",
+        "paciente": "Hensley Patterson",
+        "procedimento": "blue",
+        "valor_cirurgia": "3,774.08",
+        "valor_outros": "2,326.39",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "22/11/2014",
+                "valor": 376.09,
+                "pago": false
+            },
+            {
+                "vencimento": "14/07/2017",
+                "valor": 496.91,
+                "pago": false
+            },
+            {
+                "vencimento": "29/10/2018",
+                "valor": 357.68,
+                "pago": false
+            },
+            {
+                "vencimento": "13/06/2015",
+                "valor": 385.91,
+                "pago": false
+            },
+            {
+                "vencimento": "01/09/2014",
+                "valor": 155.34,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91c25ff41032730797",
+        "data": "16/01/2019",
+        "paciente": "Rivas Benton",
+        "procedimento": "yellow",
+        "valor_cirurgia": "1,375.48",
+        "valor_outros": "2,934.49",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "11/12/2017",
+                "valor": 408.33,
+                "pago": false
+            },
+            {
+                "vencimento": "24/06/2016",
+                "valor": 266.8,
+                "pago": false
+            },
+            {
+                "vencimento": "24/12/2017",
+                "valor": 361.4,
+                "pago": false
+            },
+            {
+                "vencimento": "09/08/2019",
+                "valor": 164.22,
+                "pago": false
+            },
+            {
+                "vencimento": "07/06/2018",
+                "valor": 184.41,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c912211d90a6f02e8d5",
+        "data": "21/06/2014",
+        "paciente": "Staci Benson",
+        "procedimento": "yellow",
+        "valor_cirurgia": "2,026.68",
+        "valor_outros": "1,555.54",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "09/03/2020",
+                "valor": 206.03,
+                "pago": false
+            },
+            {
+                "vencimento": "03/05/2014",
+                "valor": 222.6,
+                "pago": false
+            },
+            {
+                "vencimento": "09/12/2018",
+                "valor": 356.75,
+                "pago": false
+            },
+            {
+                "vencimento": "11/01/2015",
+                "valor": 138.01,
+                "pago": false
+            },
+            {
+                "vencimento": "26/12/2017",
+                "valor": 376.46,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91508fd6e22ce49383",
+        "data": "14/10/2015",
+        "paciente": "Mccarty Higgins",
+        "procedimento": "blue",
+        "valor_cirurgia": "1,346.58",
+        "valor_outros": "3,878.13",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "13/12/2016",
+                "valor": 187.2,
+                "pago": false
+            },
+            {
+                "vencimento": "21/02/2016",
+                "valor": 411.91,
+                "pago": false
+            },
+            {
+                "vencimento": "14/08/2018",
+                "valor": 317.74,
+                "pago": false
+            },
+            {
+                "vencimento": "13/06/2019",
+                "valor": 499.28,
+                "pago": false
+            },
+            {
+                "vencimento": "20/09/2018",
+                "valor": 400.16,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9119c20196c52765a2",
+        "data": "13/04/2018",
+        "paciente": "Cathy Greene",
+        "procedimento": "blue",
+        "valor_cirurgia": "1,064.45",
+        "valor_outros": "2,942.37",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "03/10/2014",
+                "valor": 116.67,
+                "pago": false
+            },
+            {
+                "vencimento": "01/10/2014",
+                "valor": 411.51,
+                "pago": false
+            },
+            {
+                "vencimento": "15/01/2015",
+                "valor": 465.89,
+                "pago": false
+            },
+            {
+                "vencimento": "27/07/2014",
+                "valor": 376.52,
+                "pago": false
+            },
+            {
+                "vencimento": "19/07/2014",
+                "valor": 398.95,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91198a0fc423fbbefe",
+        "data": "31/05/2017",
+        "paciente": "Newman Slater",
+        "procedimento": "brown",
+        "valor_cirurgia": "3,637.51",
+        "valor_outros": "2,627.72",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "12/04/2015",
+                "valor": 194.96,
+                "pago": false
+            },
+            {
+                "vencimento": "26/01/2018",
+                "valor": 446.35,
+                "pago": false
+            },
+            {
+                "vencimento": "08/06/2019",
+                "valor": 243.14,
+                "pago": false
+            },
+            {
+                "vencimento": "12/04/2017",
+                "valor": 258.35,
+                "pago": false
+            },
+            {
+                "vencimento": "10/06/2016",
+                "valor": 195.14,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91e002bc2f4f31ab4e",
+        "data": "27/04/2019",
+        "paciente": "Lindsay Gates",
+        "procedimento": "blue",
+        "valor_cirurgia": "2,697.76",
+        "valor_outros": "1,664.13",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "14/10/2014",
+                "valor": 162.55,
+                "pago": false
+            },
+            {
+                "vencimento": "07/02/2019",
+                "valor": 267.44,
+                "pago": false
+            },
+            {
+                "vencimento": "24/07/2019",
+                "valor": 427.48,
+                "pago": false
+            },
+            {
+                "vencimento": "08/08/2017",
+                "valor": 318.51,
+                "pago": false
+            },
+            {
+                "vencimento": "25/05/2014",
+                "valor": 496.51,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91de812ca54e6add32",
+        "data": "11/06/2016",
+        "paciente": "Erma Cruz",
+        "procedimento": "brown",
+        "valor_cirurgia": "2,631.67",
+        "valor_outros": "3,375.20",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "29/08/2017",
+                "valor": 494.3,
+                "pago": false
+            },
+            {
+                "vencimento": "18/09/2014",
+                "valor": 330.58,
+                "pago": false
+            },
+            {
+                "vencimento": "26/06/2020",
+                "valor": 258.61,
+                "pago": false
+            },
+            {
+                "vencimento": "04/07/2014",
+                "valor": 292.92,
+                "pago": false
+            },
+            {
+                "vencimento": "15/11/2017",
+                "valor": 440.35,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9150e1ee9136c4c89b",
+        "data": "29/11/2019",
+        "paciente": "Mcfadden Elliott",
+        "procedimento": "brown",
+        "valor_cirurgia": "2,041.43",
+        "valor_outros": "1,223.49",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "20/04/2016",
+                "valor": 121.85,
+                "pago": false
+            },
+            {
+                "vencimento": "07/07/2017",
+                "valor": 466.68,
+                "pago": false
+            },
+            {
+                "vencimento": "05/08/2016",
+                "valor": 106.08,
+                "pago": false
+            },
+            {
+                "vencimento": "09/06/2018",
+                "valor": 196.81,
+                "pago": false
+            },
+            {
+                "vencimento": "22/12/2014",
+                "valor": 156.13,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91ae4082d534141c0f",
+        "data": "24/04/2015",
+        "paciente": "Charlotte Lee",
+        "procedimento": "red",
+        "valor_cirurgia": "1,799.31",
+        "valor_outros": "3,296.58",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "16/06/2014",
+                "valor": 108.75,
+                "pago": false
+            },
+            {
+                "vencimento": "12/05/2020",
+                "valor": 359.63,
+                "pago": false
+            },
+            {
+                "vencimento": "02/11/2016",
+                "valor": 251.39,
+                "pago": false
+            },
+            {
+                "vencimento": "02/03/2015",
+                "valor": 217.75,
+                "pago": false
+            },
+            {
+                "vencimento": "21/01/2018",
+                "valor": 414.31,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91cf89c33b475a5472",
+        "data": "29/05/2018",
+        "paciente": "Knight Madden",
+        "procedimento": "red",
+        "valor_cirurgia": "2,796.65",
+        "valor_outros": "1,457.60",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "07/05/2019",
+                "valor": 208.42,
+                "pago": false
+            },
+            {
+                "vencimento": "07/11/2019",
+                "valor": 495.08,
+                "pago": false
+            },
+            {
+                "vencimento": "14/01/2019",
+                "valor": 133.87,
+                "pago": false
+            },
+            {
+                "vencimento": "25/06/2016",
+                "valor": 323.31,
+                "pago": false
+            },
+            {
+                "vencimento": "29/06/2016",
+                "valor": 362.92,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91da7c4854239f00ff",
+        "data": "28/09/2014",
+        "paciente": "Hester Burris",
+        "procedimento": "red",
+        "valor_cirurgia": "3,346.60",
+        "valor_outros": "1,300.61",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "27/10/2017",
+                "valor": 307.17,
+                "pago": false
+            },
+            {
+                "vencimento": "18/11/2015",
+                "valor": 227.12,
+                "pago": false
+            },
+            {
+                "vencimento": "17/05/2014",
+                "valor": 160.23,
+                "pago": false
+            },
+            {
+                "vencimento": "05/11/2014",
+                "valor": 438.31,
+                "pago": false
+            },
+            {
+                "vencimento": "02/05/2018",
+                "valor": 270.7,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c918576fe321e579786",
+        "data": "21/09/2015",
+        "paciente": "Vaughn Russell",
+        "procedimento": "black",
+        "valor_cirurgia": "2,260.82",
+        "valor_outros": "3,672.56",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "02/11/2019",
+                "valor": 117.33,
+                "pago": false
+            },
+            {
+                "vencimento": "14/08/2019",
+                "valor": 227.15,
+                "pago": false
+            },
+            {
+                "vencimento": "15/10/2019",
+                "valor": 171.49,
+                "pago": false
+            },
+            {
+                "vencimento": "05/10/2015",
+                "valor": 437.92,
+                "pago": false
+            },
+            {
+                "vencimento": "15/11/2016",
+                "valor": 146.02,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91cdd00b95e6bad883",
+        "data": "20/07/2017",
+        "paciente": "Connie Bentley",
+        "procedimento": "red",
+        "valor_cirurgia": "3,626.09",
+        "valor_outros": "3,593.57",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "01/01/2014",
+                "valor": 453.33,
+                "pago": false
+            },
+            {
+                "vencimento": "22/09/2015",
+                "valor": 492.4,
+                "pago": false
+            },
+            {
+                "vencimento": "18/07/2017",
+                "valor": 130.4,
+                "pago": false
+            },
+            {
+                "vencimento": "18/06/2017",
+                "valor": 110.9,
+                "pago": false
+            },
+            {
+                "vencimento": "05/01/2016",
+                "valor": 281.77,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c916a8f87b0ba43433c",
+        "data": "06/03/2018",
+        "paciente": "Harrington Hood",
+        "procedimento": "red",
+        "valor_cirurgia": "3,386.61",
+        "valor_outros": "1,650.46",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "12/10/2014",
+                "valor": 243.46,
+                "pago": false
+            },
+            {
+                "vencimento": "02/12/2016",
+                "valor": 157.43,
+                "pago": false
+            },
+            {
+                "vencimento": "15/04/2016",
+                "valor": 302.97,
+                "pago": false
+            },
+            {
+                "vencimento": "03/08/2014",
+                "valor": 311.61,
+                "pago": false
+            },
+            {
+                "vencimento": "30/05/2016",
+                "valor": 191.23,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91991087d35e1025f2",
+        "data": "29/10/2019",
+        "paciente": "Lloyd Stevens",
+        "procedimento": "red",
+        "valor_cirurgia": "1,226.16",
+        "valor_outros": "1,850.92",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "09/08/2014",
+                "valor": 295.85,
+                "pago": false
+            },
+            {
+                "vencimento": "11/12/2016",
+                "valor": 364.84,
+                "pago": false
+            },
+            {
+                "vencimento": "10/05/2019",
+                "valor": 422.83,
+                "pago": false
+            },
+            {
+                "vencimento": "30/10/2018",
+                "valor": 328.95,
+                "pago": false
+            },
+            {
+                "vencimento": "28/01/2017",
+                "valor": 450.87,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91a1ae33db0ba8e38c",
+        "data": "15/04/2018",
+        "paciente": "Estes Vincent",
+        "procedimento": "green",
+        "valor_cirurgia": "3,489.38",
+        "valor_outros": "2,098.30",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "16/12/2017",
+                "valor": 320.98,
+                "pago": false
+            },
+            {
+                "vencimento": "10/11/2018",
+                "valor": 489.19,
+                "pago": false
+            },
+            {
+                "vencimento": "06/09/2017",
+                "valor": 238.57,
+                "pago": false
+            },
+            {
+                "vencimento": "01/02/2019",
+                "valor": 101.56,
+                "pago": false
+            },
+            {
+                "vencimento": "04/12/2016",
+                "valor": 301.87,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c912eac6390614d4795",
+        "data": "18/05/2017",
+        "paciente": "Matilda Evans",
+        "procedimento": "yellow",
+        "valor_cirurgia": "1,837.36",
+        "valor_outros": "2,477.04",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "14/02/2020",
+                "valor": 442.28,
+                "pago": false
+            },
+            {
+                "vencimento": "13/12/2018",
+                "valor": 433.51,
+                "pago": false
+            },
+            {
+                "vencimento": "13/04/2017",
+                "valor": 494.12,
+                "pago": false
+            },
+            {
+                "vencimento": "18/09/2015",
+                "valor": 227.19,
+                "pago": false
+            },
+            {
+                "vencimento": "04/06/2019",
+                "valor": 416.37,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c910822aaa765c94636",
+        "data": "17/09/2014",
+        "paciente": "Ballard Flowers",
+        "procedimento": "black",
+        "valor_cirurgia": "2,667.44",
+        "valor_outros": "3,617.62",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "25/08/2019",
+                "valor": 172.23,
+                "pago": false
+            },
+            {
+                "vencimento": "17/07/2016",
+                "valor": 457.05,
+                "pago": false
+            },
+            {
+                "vencimento": "10/09/2018",
+                "valor": 456.98,
+                "pago": false
+            },
+            {
+                "vencimento": "05/04/2017",
+                "valor": 370.32,
+                "pago": false
+            },
+            {
+                "vencimento": "11/07/2015",
+                "valor": 481.75,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91ce439f341107850c",
+        "data": "18/03/2016",
+        "paciente": "Susana Pearson",
+        "procedimento": "black",
+        "valor_cirurgia": "2,134.18",
+        "valor_outros": "3,670.39",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "28/04/2019",
+                "valor": 188.91,
+                "pago": false
+            },
+            {
+                "vencimento": "16/08/2017",
+                "valor": 442.5,
+                "pago": false
+            },
+            {
+                "vencimento": "09/07/2017",
+                "valor": 413.06,
+                "pago": false
+            },
+            {
+                "vencimento": "22/01/2015",
+                "valor": 324.93,
+                "pago": false
+            },
+            {
+                "vencimento": "27/02/2016",
+                "valor": 379.41,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91a2512881aed22d8e",
+        "data": "18/06/2019",
+        "paciente": "Bean Kemp",
+        "procedimento": "brown",
+        "valor_cirurgia": "2,837.16",
+        "valor_outros": "2,410.98",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "19/02/2019",
+                "valor": 262.95,
+                "pago": false
+            },
+            {
+                "vencimento": "05/02/2019",
+                "valor": 250.74,
+                "pago": false
+            },
+            {
+                "vencimento": "20/01/2017",
+                "valor": 267.24,
+                "pago": false
+            },
+            {
+                "vencimento": "24/07/2017",
+                "valor": 393.18,
+                "pago": false
+            },
+            {
+                "vencimento": "13/06/2015",
+                "valor": 329.36,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c912fe4121d489e6a36",
+        "data": "26/04/2014",
+        "paciente": "Flora Emerson",
+        "procedimento": "black",
+        "valor_cirurgia": "2,325.76",
+        "valor_outros": "1,667.55",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "14/06/2018",
+                "valor": 235.17,
+                "pago": false
+            },
+            {
+                "vencimento": "01/07/2016",
+                "valor": 188.34,
+                "pago": false
+            },
+            {
+                "vencimento": "14/02/2015",
+                "valor": 295.8,
+                "pago": false
+            },
+            {
+                "vencimento": "22/04/2014",
+                "valor": 385.16,
+                "pago": false
+            },
+            {
+                "vencimento": "10/05/2016",
+                "valor": 298.41,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91298b83840844dcdd",
+        "data": "25/10/2015",
+        "paciente": "Huber Ortega",
+        "procedimento": "yellow",
+        "valor_cirurgia": "2,488.70",
+        "valor_outros": "2,465.61",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "01/04/2015",
+                "valor": 368.6,
+                "pago": false
+            },
+            {
+                "vencimento": "12/11/2018",
+                "valor": 410.36,
+                "pago": false
+            },
+            {
+                "vencimento": "21/05/2020",
+                "valor": 145.29,
+                "pago": false
+            },
+            {
+                "vencimento": "19/11/2014",
+                "valor": 319.25,
+                "pago": false
+            },
+            {
+                "vencimento": "18/02/2018",
+                "valor": 172.35,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91ad60e4db174076a8",
+        "data": "13/03/2020",
+        "paciente": "Lessie Bruce",
+        "procedimento": "yellow",
+        "valor_cirurgia": "3,829.98",
+        "valor_outros": "1,304.24",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "12/07/2020",
+                "valor": 219.7,
+                "pago": false
+            },
+            {
+                "vencimento": "15/09/2017",
+                "valor": 188.4,
+                "pago": false
+            },
+            {
+                "vencimento": "19/11/2015",
+                "valor": 478.3,
+                "pago": false
+            },
+            {
+                "vencimento": "23/05/2018",
+                "valor": 458.06,
+                "pago": false
+            },
+            {
+                "vencimento": "18/08/2016",
+                "valor": 371.12,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c911f21c5ea55b49ea4",
+        "data": "27/03/2018",
+        "paciente": "Newton Hutchinson",
+        "procedimento": "blue",
+        "valor_cirurgia": "3,911.37",
+        "valor_outros": "1,013.22",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "24/01/2015",
+                "valor": 471.17,
+                "pago": false
+            },
+            {
+                "vencimento": "09/10/2017",
+                "valor": 451.55,
+                "pago": false
+            },
+            {
+                "vencimento": "13/09/2016",
+                "valor": 134.91,
+                "pago": false
+            },
+            {
+                "vencimento": "23/08/2015",
+                "valor": 182.84,
+                "pago": false
+            },
+            {
+                "vencimento": "13/07/2017",
+                "valor": 259.9,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c911e900f6556dd4e18",
+        "data": "01/01/2014",
+        "paciente": "Jan Soto",
+        "procedimento": "yellow",
+        "valor_cirurgia": "1,889.16",
+        "valor_outros": "2,449.03",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "02/01/2014",
+                "valor": 262.91,
+                "pago": false
+            },
+            {
+                "vencimento": "11/06/2018",
+                "valor": 341.95,
+                "pago": false
+            },
+            {
+                "vencimento": "05/07/2014",
+                "valor": 393.25,
+                "pago": false
+            },
+            {
+                "vencimento": "02/05/2015",
+                "valor": 196.27,
+                "pago": false
+            },
+            {
+                "vencimento": "12/04/2019",
+                "valor": 443.02,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91df9f21fb768479a0",
+        "data": "07/12/2018",
+        "paciente": "Candice House",
+        "procedimento": "blue",
+        "valor_cirurgia": "3,937.36",
+        "valor_outros": "1,508.49",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "17/08/2015",
+                "valor": 109.37,
+                "pago": false
+            },
+            {
+                "vencimento": "04/06/2017",
+                "valor": 473.72,
+                "pago": false
+            },
+            {
+                "vencimento": "21/06/2020",
+                "valor": 452.73,
+                "pago": false
+            },
+            {
+                "vencimento": "04/10/2014",
+                "valor": 286.91,
+                "pago": false
+            },
+            {
+                "vencimento": "22/05/2016",
+                "valor": 211.45,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9145082668675c2fe5",
+        "data": "15/10/2016",
+        "paciente": "Holmes Giles",
+        "procedimento": "yellow",
+        "valor_cirurgia": "1,999.62",
+        "valor_outros": "3,121.92",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "13/04/2018",
+                "valor": 284.37,
+                "pago": false
+            },
+            {
+                "vencimento": "09/09/2017",
+                "valor": 455.73,
+                "pago": false
+            },
+            {
+                "vencimento": "08/11/2015",
+                "valor": 498.65,
+                "pago": false
+            },
+            {
+                "vencimento": "26/03/2018",
+                "valor": 493.53,
+                "pago": false
+            },
+            {
+                "vencimento": "14/04/2014",
+                "valor": 484.28,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c919a568a8efd346c78",
+        "data": "04/11/2015",
+        "paciente": "Brock Sheppard",
+        "procedimento": "black",
+        "valor_cirurgia": "3,593.59",
+        "valor_outros": "2,571.01",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "08/02/2017",
+                "valor": 364.01,
+                "pago": false
+            },
+            {
+                "vencimento": "04/07/2020",
+                "valor": 192.78,
+                "pago": false
+            },
+            {
+                "vencimento": "25/10/2016",
+                "valor": 391.36,
+                "pago": false
+            },
+            {
+                "vencimento": "09/04/2018",
+                "valor": 258.78,
+                "pago": false
+            },
+            {
+                "vencimento": "01/08/2014",
+                "valor": 478.32,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c912cbe0d9ce0dac1af",
+        "data": "24/05/2018",
+        "paciente": "Isabella Love",
+        "procedimento": "blue",
+        "valor_cirurgia": "3,693.40",
+        "valor_outros": "3,815.71",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "07/09/2017",
+                "valor": 288.37,
+                "pago": false
+            },
+            {
+                "vencimento": "27/02/2017",
+                "valor": 182.4,
+                "pago": false
+            },
+            {
+                "vencimento": "20/03/2017",
+                "valor": 336.8,
+                "pago": false
+            },
+            {
+                "vencimento": "03/01/2018",
+                "valor": 132.37,
+                "pago": false
+            },
+            {
+                "vencimento": "04/02/2016",
+                "valor": 213.95,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9174c42af9011d34c9",
+        "data": "04/08/2018",
+        "paciente": "Amelia Carson",
+        "procedimento": "blue",
+        "valor_cirurgia": "2,561.35",
+        "valor_outros": "3,780.07",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "17/02/2019",
+                "valor": 473.78,
+                "pago": false
+            },
+            {
+                "vencimento": "14/09/2016",
+                "valor": 461.73,
+                "pago": false
+            },
+            {
+                "vencimento": "04/07/2016",
+                "valor": 426.87,
+                "pago": false
+            },
+            {
+                "vencimento": "23/01/2017",
+                "valor": 125.07,
+                "pago": false
+            },
+            {
+                "vencimento": "08/04/2020",
+                "valor": 126.32,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c914c46a58e125c49e1",
+        "data": "01/03/2020",
+        "paciente": "Imogene Cooke",
+        "procedimento": "brown",
+        "valor_cirurgia": "3,947.82",
+        "valor_outros": "2,050.96",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "01/02/2014",
+                "valor": 202.36,
+                "pago": false
+            },
+            {
+                "vencimento": "16/07/2019",
+                "valor": 224.96,
+                "pago": false
+            },
+            {
+                "vencimento": "16/03/2017",
+                "valor": 212.1,
+                "pago": false
+            },
+            {
+                "vencimento": "28/01/2020",
+                "valor": 430.54,
+                "pago": false
+            },
+            {
+                "vencimento": "30/03/2019",
+                "valor": 283.87,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9197d53ba2aac943ad",
+        "data": "04/12/2014",
+        "paciente": "Mable Jenkins",
+        "procedimento": "red",
+        "valor_cirurgia": "3,008.32",
+        "valor_outros": "1,385.78",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "09/03/2020",
+                "valor": 313.38,
+                "pago": false
+            },
+            {
+                "vencimento": "10/05/2018",
+                "valor": 432.67,
+                "pago": false
+            },
+            {
+                "vencimento": "16/03/2018",
+                "valor": 478.21,
+                "pago": false
+            },
+            {
+                "vencimento": "07/03/2017",
+                "valor": 244.8,
+                "pago": false
+            },
+            {
+                "vencimento": "09/12/2016",
+                "valor": 403.64,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91c54f8795885a3c1a",
+        "data": "28/02/2014",
+        "paciente": "Robin Nguyen",
+        "procedimento": "green",
+        "valor_cirurgia": "3,234.46",
+        "valor_outros": "1,842.64",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "30/10/2019",
+                "valor": 452.56,
+                "pago": false
+            },
+            {
+                "vencimento": "07/08/2017",
+                "valor": 287.93,
+                "pago": false
+            },
+            {
+                "vencimento": "23/11/2015",
+                "valor": 314.75,
+                "pago": false
+            },
+            {
+                "vencimento": "07/02/2017",
+                "valor": 155.28,
+                "pago": false
+            },
+            {
+                "vencimento": "17/11/2017",
+                "valor": 166.6,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c911a0fff9240753245",
+        "data": "16/10/2019",
+        "paciente": "Crosby Edwards",
+        "procedimento": "red",
+        "valor_cirurgia": "2,362.06",
+        "valor_outros": "2,790.22",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "01/01/2020",
+                "valor": 345.56,
+                "pago": false
+            },
+            {
+                "vencimento": "11/01/2017",
+                "valor": 236.39,
+                "pago": false
+            },
+            {
+                "vencimento": "10/04/2015",
+                "valor": 424.86,
+                "pago": false
+            },
+            {
+                "vencimento": "23/10/2017",
+                "valor": 458.13,
+                "pago": false
+            },
+            {
+                "vencimento": "30/04/2016",
+                "valor": 364.02,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91c541bfb085c4c8ce",
+        "data": "19/08/2015",
+        "paciente": "Alissa Vinson",
+        "procedimento": "yellow",
+        "valor_cirurgia": "2,295.17",
+        "valor_outros": "2,788.59",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "29/08/2019",
+                "valor": 199.35,
+                "pago": false
+            },
+            {
+                "vencimento": "02/05/2017",
+                "valor": 223.28,
+                "pago": false
+            },
+            {
+                "vencimento": "07/04/2016",
+                "valor": 274.91,
+                "pago": false
+            },
+            {
+                "vencimento": "18/02/2014",
+                "valor": 415.21,
+                "pago": false
+            },
+            {
+                "vencimento": "03/03/2020",
+                "valor": 333.99,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91c250276484213567",
+        "data": "12/09/2019",
+        "paciente": "Earline Cooper",
+        "procedimento": "blue",
+        "valor_cirurgia": "1,289.36",
+        "valor_outros": "2,739.89",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "08/07/2015",
+                "valor": 477.23,
+                "pago": false
+            },
+            {
+                "vencimento": "19/02/2018",
+                "valor": 301.22,
+                "pago": false
+            },
+            {
+                "vencimento": "28/06/2018",
+                "valor": 385.91,
+                "pago": false
+            },
+            {
+                "vencimento": "31/01/2019",
+                "valor": 175.98,
+                "pago": false
+            },
+            {
+                "vencimento": "18/07/2018",
+                "valor": 480.72,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91eb66c32d776faf8e",
+        "data": "06/09/2014",
+        "paciente": "Blanchard Sullivan",
+        "procedimento": "green",
+        "valor_cirurgia": "1,257.06",
+        "valor_outros": "1,222.09",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "08/01/2014",
+                "valor": 458.84,
+                "pago": false
+            },
+            {
+                "vencimento": "19/02/2019",
+                "valor": 439.53,
+                "pago": false
+            },
+            {
+                "vencimento": "18/02/2014",
+                "valor": 495.05,
+                "pago": false
+            },
+            {
+                "vencimento": "13/05/2019",
+                "valor": 384.6,
+                "pago": false
+            },
+            {
+                "vencimento": "03/03/2019",
+                "valor": 202.98,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91bf3209170399b58e",
+        "data": "18/12/2019",
+        "paciente": "Duke Chase",
+        "procedimento": "blue",
+        "valor_cirurgia": "3,730.88",
+        "valor_outros": "1,963.13",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "05/10/2014",
+                "valor": 234.29,
+                "pago": false
+            },
+            {
+                "vencimento": "23/02/2020",
+                "valor": 402.14,
+                "pago": false
+            },
+            {
+                "vencimento": "19/12/2014",
+                "valor": 122.4,
+                "pago": false
+            },
+            {
+                "vencimento": "27/09/2019",
+                "valor": 108.97,
+                "pago": false
+            },
+            {
+                "vencimento": "21/11/2018",
+                "valor": 486.78,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91d05e8a9ec3439eac",
+        "data": "21/02/2019",
+        "paciente": "Bessie Leonard",
+        "procedimento": "yellow",
+        "valor_cirurgia": "1,422.93",
+        "valor_outros": "3,066.92",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "16/05/2020",
+                "valor": 339.51,
+                "pago": false
+            },
+            {
+                "vencimento": "11/12/2014",
+                "valor": 244.37,
+                "pago": false
+            },
+            {
+                "vencimento": "28/10/2014",
+                "valor": 261.2,
+                "pago": false
+            },
+            {
+                "vencimento": "19/01/2020",
+                "valor": 362.94,
+                "pago": false
+            },
+            {
+                "vencimento": "28/07/2016",
+                "valor": 277,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9195abf0542dc564af",
+        "data": "21/05/2019",
+        "paciente": "Lara Nunez",
+        "procedimento": "yellow",
+        "valor_cirurgia": "3,598.01",
+        "valor_outros": "2,255.81",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "02/05/2016",
+                "valor": 355.8,
+                "pago": false
+            },
+            {
+                "vencimento": "28/03/2014",
+                "valor": 353.18,
+                "pago": false
+            },
+            {
+                "vencimento": "25/12/2016",
+                "valor": 141.09,
+                "pago": false
+            },
+            {
+                "vencimento": "27/07/2014",
+                "valor": 416.98,
+                "pago": false
+            },
+            {
+                "vencimento": "07/05/2015",
+                "valor": 222.09,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9131a54d7d2ce9ce4a",
+        "data": "01/06/2014",
+        "paciente": "Webster Conrad",
+        "procedimento": "green",
+        "valor_cirurgia": "3,211.53",
+        "valor_outros": "2,869.55",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "05/03/2018",
+                "valor": 325.18,
+                "pago": false
+            },
+            {
+                "vencimento": "06/06/2017",
+                "valor": 434.09,
+                "pago": false
+            },
+            {
+                "vencimento": "03/11/2014",
+                "valor": 361.78,
+                "pago": false
+            },
+            {
+                "vencimento": "18/08/2016",
+                "valor": 288.63,
+                "pago": false
+            },
+            {
+                "vencimento": "06/08/2019",
+                "valor": 449.66,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91465fab20001be0b7",
+        "data": "30/05/2017",
+        "paciente": "Good Hendrix",
+        "procedimento": "red",
+        "valor_cirurgia": "1,929.83",
+        "valor_outros": "2,502.92",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "24/04/2020",
+                "valor": 258.46,
+                "pago": false
+            },
+            {
+                "vencimento": "01/11/2018",
+                "valor": 267.25,
+                "pago": false
+            },
+            {
+                "vencimento": "18/02/2019",
+                "valor": 296.66,
+                "pago": false
+            },
+            {
+                "vencimento": "27/03/2017",
+                "valor": 374.89,
+                "pago": false
+            },
+            {
+                "vencimento": "17/12/2019",
+                "valor": 283.67,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91b71e8ad08292be19",
+        "data": "22/04/2015",
+        "paciente": "Melody Huff",
+        "procedimento": "brown",
+        "valor_cirurgia": "1,968.05",
+        "valor_outros": "3,843.73",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "26/09/2014",
+                "valor": 322.98,
+                "pago": false
+            },
+            {
+                "vencimento": "28/06/2017",
+                "valor": 469.59,
+                "pago": false
+            },
+            {
+                "vencimento": "24/03/2014",
+                "valor": 231.31,
+                "pago": false
+            },
+            {
+                "vencimento": "21/04/2020",
+                "valor": 474.93,
+                "pago": false
+            },
+            {
+                "vencimento": "19/01/2020",
+                "valor": 235.69,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91ed25db09d6f93585",
+        "data": "09/05/2020",
+        "paciente": "Ophelia Keller",
+        "procedimento": "red",
+        "valor_cirurgia": "3,797.57",
+        "valor_outros": "1,505.14",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "23/08/2018",
+                "valor": 153.26,
+                "pago": false
+            },
+            {
+                "vencimento": "02/03/2016",
+                "valor": 357,
+                "pago": false
+            },
+            {
+                "vencimento": "03/12/2017",
+                "valor": 256.33,
+                "pago": false
+            },
+            {
+                "vencimento": "05/04/2020",
+                "valor": 239.62,
+                "pago": false
+            },
+            {
+                "vencimento": "01/02/2016",
+                "valor": 197.65,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9156cb3c49714949f9",
+        "data": "07/04/2020",
+        "paciente": "Miranda Atkins",
+        "procedimento": "red",
+        "valor_cirurgia": "3,042.67",
+        "valor_outros": "2,762.38",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "30/04/2015",
+                "valor": 112.07,
+                "pago": false
+            },
+            {
+                "vencimento": "14/04/2017",
+                "valor": 157.67,
+                "pago": false
+            },
+            {
+                "vencimento": "19/01/2019",
+                "valor": 421.24,
+                "pago": false
+            },
+            {
+                "vencimento": "15/06/2020",
+                "valor": 171.38,
+                "pago": false
+            },
+            {
+                "vencimento": "15/03/2016",
+                "valor": 360.18,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91c7c1b8d3fb9cfa8f",
+        "data": "09/06/2019",
+        "paciente": "Figueroa Kirby",
+        "procedimento": "blue",
+        "valor_cirurgia": "3,392.01",
+        "valor_outros": "3,563.65",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "24/12/2017",
+                "valor": 395.45,
+                "pago": false
+            },
+            {
+                "vencimento": "16/03/2018",
+                "valor": 109.22,
+                "pago": false
+            },
+            {
+                "vencimento": "25/10/2016",
+                "valor": 221.73,
+                "pago": false
+            },
+            {
+                "vencimento": "06/09/2017",
+                "valor": 398.33,
+                "pago": false
+            },
+            {
+                "vencimento": "27/04/2016",
+                "valor": 244.82,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91ecf51075f11f286a",
+        "data": "24/12/2014",
+        "paciente": "Etta Holt",
+        "procedimento": "yellow",
+        "valor_cirurgia": "2,479.49",
+        "valor_outros": "2,034.20",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "24/02/2016",
+                "valor": 328.52,
+                "pago": false
+            },
+            {
+                "vencimento": "31/12/2016",
+                "valor": 134.35,
+                "pago": false
+            },
+            {
+                "vencimento": "29/07/2017",
+                "valor": 167.9,
+                "pago": false
+            },
+            {
+                "vencimento": "13/08/2016",
+                "valor": 328.19,
+                "pago": false
+            },
+            {
+                "vencimento": "23/02/2015",
+                "valor": 413.56,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c916b16006d4b3a33e1",
+        "data": "13/06/2018",
+        "paciente": "Benson Rodriquez",
+        "procedimento": "blue",
+        "valor_cirurgia": "1,229.24",
+        "valor_outros": "2,058.72",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "03/07/2020",
+                "valor": 116.64,
+                "pago": false
+            },
+            {
+                "vencimento": "07/01/2014",
+                "valor": 445.81,
+                "pago": false
+            },
+            {
+                "vencimento": "02/01/2018",
+                "valor": 468.98,
+                "pago": false
+            },
+            {
+                "vencimento": "13/12/2019",
+                "valor": 390.51,
+                "pago": false
+            },
+            {
+                "vencimento": "20/04/2020",
+                "valor": 302.7,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c911f5751d89df60ad4",
+        "data": "23/04/2017",
+        "paciente": "Jessie Tyler",
+        "procedimento": "yellow",
+        "valor_cirurgia": "3,862.63",
+        "valor_outros": "2,530.92",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "14/05/2018",
+                "valor": 370.36,
+                "pago": false
+            },
+            {
+                "vencimento": "06/02/2014",
+                "valor": 158.79,
+                "pago": false
+            },
+            {
+                "vencimento": "30/06/2016",
+                "valor": 278.66,
+                "pago": false
+            },
+            {
+                "vencimento": "27/10/2015",
+                "valor": 181.2,
+                "pago": false
+            },
+            {
+                "vencimento": "13/01/2019",
+                "valor": 344.99,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c914d8d8ed090aa4f2c",
+        "data": "15/07/2020",
+        "paciente": "Jeanine Turner",
+        "procedimento": "green",
+        "valor_cirurgia": "1,320.73",
+        "valor_outros": "2,155.31",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "21/02/2015",
+                "valor": 258.38,
+                "pago": false
+            },
+            {
+                "vencimento": "27/06/2016",
+                "valor": 466,
+                "pago": false
+            },
+            {
+                "vencimento": "05/07/2020",
+                "valor": 172.22,
+                "pago": false
+            },
+            {
+                "vencimento": "16/01/2018",
+                "valor": 280.73,
+                "pago": false
+            },
+            {
+                "vencimento": "24/02/2015",
+                "valor": 471.17,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c917c0d274da0d66245",
+        "data": "28/04/2017",
+        "paciente": "Baldwin Mckay",
+        "procedimento": "brown",
+        "valor_cirurgia": "1,893.51",
+        "valor_outros": "3,817.94",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "24/03/2014",
+                "valor": 231.99,
+                "pago": false
+            },
+            {
+                "vencimento": "22/01/2019",
+                "valor": 465.57,
+                "pago": false
+            },
+            {
+                "vencimento": "18/10/2016",
+                "valor": 463.11,
+                "pago": false
+            },
+            {
+                "vencimento": "17/06/2020",
+                "valor": 146.52,
+                "pago": false
+            },
+            {
+                "vencimento": "14/12/2015",
+                "valor": 398.45,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c912699993e4f823b54",
+        "data": "13/01/2017",
+        "paciente": "Norton Horn",
+        "procedimento": "red",
+        "valor_cirurgia": "3,389.62",
+        "valor_outros": "3,891.59",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "27/02/2016",
+                "valor": 286.47,
+                "pago": false
+            },
+            {
+                "vencimento": "02/09/2017",
+                "valor": 369.16,
+                "pago": false
+            },
+            {
+                "vencimento": "23/10/2018",
+                "valor": 343.69,
+                "pago": false
+            },
+            {
+                "vencimento": "28/03/2020",
+                "valor": 177.25,
+                "pago": false
+            },
+            {
+                "vencimento": "20/05/2014",
+                "valor": 261.21,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91fb8479845084bc18",
+        "data": "17/05/2020",
+        "paciente": "Everett Holloway",
+        "procedimento": "brown",
+        "valor_cirurgia": "2,745.61",
+        "valor_outros": "3,888.74",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "29/12/2016",
+                "valor": 370.46,
+                "pago": false
+            },
+            {
+                "vencimento": "12/09/2017",
+                "valor": 370.36,
+                "pago": false
+            },
+            {
+                "vencimento": "11/04/2014",
+                "valor": 339.2,
+                "pago": false
+            },
+            {
+                "vencimento": "06/03/2018",
+                "valor": 408.71,
+                "pago": false
+            },
+            {
+                "vencimento": "30/08/2018",
+                "valor": 370.04,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9117f511249e754124",
+        "data": "26/01/2020",
+        "paciente": "Norman Mcintyre",
+        "procedimento": "yellow",
+        "valor_cirurgia": "2,199.93",
+        "valor_outros": "2,941.02",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "11/05/2015",
+                "valor": 485.58,
+                "pago": false
+            },
+            {
+                "vencimento": "08/11/2015",
+                "valor": 417.16,
+                "pago": false
+            },
+            {
+                "vencimento": "31/03/2017",
+                "valor": 126.94,
+                "pago": false
+            },
+            {
+                "vencimento": "23/04/2020",
+                "valor": 488.4,
+                "pago": false
+            },
+            {
+                "vencimento": "27/11/2017",
+                "valor": 339.6,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91cbefedd3cd3b76d2",
+        "data": "22/06/2020",
+        "paciente": "Candy Jacobson",
+        "procedimento": "red",
+        "valor_cirurgia": "3,348.32",
+        "valor_outros": "1,347.44",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "29/07/2017",
+                "valor": 141.31,
+                "pago": false
+            },
+            {
+                "vencimento": "27/01/2018",
+                "valor": 222.33,
+                "pago": false
+            },
+            {
+                "vencimento": "05/11/2016",
+                "valor": 465.06,
+                "pago": false
+            },
+            {
+                "vencimento": "09/02/2017",
+                "valor": 321.39,
+                "pago": false
+            },
+            {
+                "vencimento": "14/03/2020",
+                "valor": 267.86,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c915afdcd8a55d8df1d",
+        "data": "15/04/2016",
+        "paciente": "Gonzales Bridges",
+        "procedimento": "red",
+        "valor_cirurgia": "3,984.18",
+        "valor_outros": "3,862.22",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "06/05/2019",
+                "valor": 489.02,
+                "pago": false
+            },
+            {
+                "vencimento": "31/03/2020",
+                "valor": 178.53,
+                "pago": false
+            },
+            {
+                "vencimento": "28/07/2016",
+                "valor": 416.44,
+                "pago": false
+            },
+            {
+                "vencimento": "09/01/2018",
+                "valor": 185.3,
+                "pago": false
+            },
+            {
+                "vencimento": "15/01/2020",
+                "valor": 207.75,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91771c47f225c56f23",
+        "data": "20/05/2017",
+        "paciente": "Celeste Thornton",
+        "procedimento": "black",
+        "valor_cirurgia": "3,304.46",
+        "valor_outros": "2,883.90",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "12/10/2014",
+                "valor": 147.57,
+                "pago": false
+            },
+            {
+                "vencimento": "06/08/2019",
+                "valor": 167.82,
+                "pago": false
+            },
+            {
+                "vencimento": "13/01/2017",
+                "valor": 119.18,
+                "pago": false
+            },
+            {
+                "vencimento": "20/05/2014",
+                "valor": 340.61,
+                "pago": false
+            },
+            {
+                "vencimento": "13/04/2015",
+                "valor": 333.38,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91a5022763f8056e08",
+        "data": "02/02/2016",
+        "paciente": "Johanna Clemons",
+        "procedimento": "black",
+        "valor_cirurgia": "3,823.06",
+        "valor_outros": "3,398.39",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "11/08/2014",
+                "valor": 466.94,
+                "pago": false
+            },
+            {
+                "vencimento": "15/11/2015",
+                "valor": 466.01,
+                "pago": false
+            },
+            {
+                "vencimento": "29/06/2020",
+                "valor": 454.04,
+                "pago": false
+            },
+            {
+                "vencimento": "01/03/2015",
+                "valor": 446.63,
+                "pago": false
+            },
+            {
+                "vencimento": "11/03/2016",
+                "valor": 195.75,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c916190bc464899ec97",
+        "data": "29/05/2014",
+        "paciente": "Parks Cobb",
+        "procedimento": "black",
+        "valor_cirurgia": "2,635.55",
+        "valor_outros": "2,676.40",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "11/11/2016",
+                "valor": 272.81,
+                "pago": false
+            },
+            {
+                "vencimento": "10/03/2018",
+                "valor": 152.21,
+                "pago": false
+            },
+            {
+                "vencimento": "05/07/2018",
+                "valor": 429.95,
+                "pago": false
+            },
+            {
+                "vencimento": "21/02/2018",
+                "valor": 144.55,
+                "pago": false
+            },
+            {
+                "vencimento": "02/01/2015",
+                "valor": 195.9,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9113336bb6f3018303",
+        "data": "29/09/2018",
+        "paciente": "Mcbride Mcconnell",
+        "procedimento": "red",
+        "valor_cirurgia": "2,851.40",
+        "valor_outros": "1,998.09",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "26/03/2017",
+                "valor": 246.24,
+                "pago": false
+            },
+            {
+                "vencimento": "14/04/2017",
+                "valor": 443.79,
+                "pago": false
+            },
+            {
+                "vencimento": "09/05/2015",
+                "valor": 247.77,
+                "pago": false
+            },
+            {
+                "vencimento": "26/12/2018",
+                "valor": 388.99,
+                "pago": false
+            },
+            {
+                "vencimento": "25/08/2015",
+                "valor": 487.25,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c915b57b98dda016452",
+        "data": "11/09/2017",
+        "paciente": "Lisa Noble",
+        "procedimento": "brown",
+        "valor_cirurgia": "1,110.21",
+        "valor_outros": "2,493.84",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "08/02/2015",
+                "valor": 219.84,
+                "pago": false
+            },
+            {
+                "vencimento": "11/02/2016",
+                "valor": 371.65,
+                "pago": false
+            },
+            {
+                "vencimento": "06/01/2014",
+                "valor": 358.62,
+                "pago": false
+            },
+            {
+                "vencimento": "18/09/2014",
+                "valor": 382.28,
+                "pago": false
+            },
+            {
+                "vencimento": "14/09/2017",
+                "valor": 245.8,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91fb8714c0b05109a4",
+        "data": "15/03/2017",
+        "paciente": "Jessica Sawyer",
+        "procedimento": "yellow",
+        "valor_cirurgia": "2,588.27",
+        "valor_outros": "1,824.47",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "26/08/2018",
+                "valor": 265.46,
+                "pago": false
+            },
+            {
+                "vencimento": "18/06/2014",
+                "valor": 467.9,
+                "pago": false
+            },
+            {
+                "vencimento": "22/12/2017",
+                "valor": 275,
+                "pago": false
+            },
+            {
+                "vencimento": "28/01/2018",
+                "valor": 240.3,
+                "pago": false
+            },
+            {
+                "vencimento": "19/01/2018",
+                "valor": 278.93,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c911bcec6dce82217df",
+        "data": "19/10/2017",
+        "paciente": "Sonya Marsh",
+        "procedimento": "green",
+        "valor_cirurgia": "3,446.36",
+        "valor_outros": "3,528.30",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "30/03/2015",
+                "valor": 212.25,
+                "pago": false
+            },
+            {
+                "vencimento": "28/07/2017",
+                "valor": 338.29,
+                "pago": false
+            },
+            {
+                "vencimento": "21/11/2018",
+                "valor": 108.03,
+                "pago": false
+            },
+            {
+                "vencimento": "31/08/2014",
+                "valor": 154.43,
+                "pago": false
+            },
+            {
+                "vencimento": "14/07/2015",
+                "valor": 236.44,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91771eb74cfc2b71ee",
+        "data": "26/02/2019",
+        "paciente": "Irma Vance",
+        "procedimento": "green",
+        "valor_cirurgia": "2,330.16",
+        "valor_outros": "2,013.24",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "14/02/2019",
+                "valor": 317.35,
+                "pago": false
+            },
+            {
+                "vencimento": "12/07/2018",
+                "valor": 203.04,
+                "pago": false
+            },
+            {
+                "vencimento": "29/03/2017",
+                "valor": 259.68,
+                "pago": false
+            },
+            {
+                "vencimento": "12/06/2015",
+                "valor": 207.6,
+                "pago": false
+            },
+            {
+                "vencimento": "06/08/2017",
+                "valor": 479.83,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c910f04268e4f1e9075",
+        "data": "14/06/2016",
+        "paciente": "Holden Duran",
+        "procedimento": "green",
+        "valor_cirurgia": "1,462.52",
+        "valor_outros": "1,328.45",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "19/07/2018",
+                "valor": 128.68,
+                "pago": false
+            },
+            {
+                "vencimento": "08/07/2017",
+                "valor": 405.12,
+                "pago": false
+            },
+            {
+                "vencimento": "22/01/2016",
+                "valor": 157.18,
+                "pago": false
+            },
+            {
+                "vencimento": "19/10/2018",
+                "valor": 466.02,
+                "pago": false
+            },
+            {
+                "vencimento": "22/06/2020",
+                "valor": 227.05,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c917662c091330fc91b",
+        "data": "22/10/2016",
+        "paciente": "Ford Cleveland",
+        "procedimento": "black",
+        "valor_cirurgia": "3,376.68",
+        "valor_outros": "2,603.44",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "13/10/2016",
+                "valor": 397.39,
+                "pago": false
+            },
+            {
+                "vencimento": "14/08/2019",
+                "valor": 296.37,
+                "pago": false
+            },
+            {
+                "vencimento": "15/04/2019",
+                "valor": 333.91,
+                "pago": false
+            },
+            {
+                "vencimento": "25/03/2020",
+                "valor": 100.72,
+                "pago": false
+            },
+            {
+                "vencimento": "17/08/2014",
+                "valor": 384.39,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91703bb71a01d9919a",
+        "data": "14/06/2017",
+        "paciente": "Hobbs Mayer",
+        "procedimento": "black",
+        "valor_cirurgia": "1,744.03",
+        "valor_outros": "3,133.24",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "04/07/2014",
+                "valor": 257.93,
+                "pago": false
+            },
+            {
+                "vencimento": "09/05/2015",
+                "valor": 156.77,
+                "pago": false
+            },
+            {
+                "vencimento": "02/07/2016",
+                "valor": 127.39,
+                "pago": false
+            },
+            {
+                "vencimento": "13/12/2016",
+                "valor": 208.35,
+                "pago": false
+            },
+            {
+                "vencimento": "13/12/2018",
+                "valor": 331.77,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91ece998e1f4c75ff2",
+        "data": "07/12/2019",
+        "paciente": "Richard Hester",
+        "procedimento": "black",
+        "valor_cirurgia": "3,705.31",
+        "valor_outros": "3,687.51",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "27/03/2016",
+                "valor": 197.19,
+                "pago": false
+            },
+            {
+                "vencimento": "29/05/2014",
+                "valor": 366.22,
+                "pago": false
+            },
+            {
+                "vencimento": "11/01/2018",
+                "valor": 298.3,
+                "pago": false
+            },
+            {
+                "vencimento": "02/02/2018",
+                "valor": 363.55,
+                "pago": false
+            },
+            {
+                "vencimento": "13/05/2014",
+                "valor": 465.14,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c912a6a79654156f84d",
+        "data": "14/06/2017",
+        "paciente": "Hope Ramirez",
+        "procedimento": "black",
+        "valor_cirurgia": "2,861.54",
+        "valor_outros": "2,696.63",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "09/08/2016",
+                "valor": 407.65,
+                "pago": false
+            },
+            {
+                "vencimento": "18/10/2019",
+                "valor": 430.05,
+                "pago": false
+            },
+            {
+                "vencimento": "24/04/2020",
+                "valor": 147.37,
+                "pago": false
+            },
+            {
+                "vencimento": "24/06/2019",
+                "valor": 395.04,
+                "pago": false
+            },
+            {
+                "vencimento": "02/08/2015",
+                "valor": 340.7,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91a0849bc6297530b0",
+        "data": "21/08/2019",
+        "paciente": "Mccarthy Decker",
+        "procedimento": "blue",
+        "valor_cirurgia": "3,376.35",
+        "valor_outros": "3,422.44",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "03/01/2019",
+                "valor": 366.63,
+                "pago": false
+            },
+            {
+                "vencimento": "10/03/2015",
+                "valor": 338.3,
+                "pago": false
+            },
+            {
+                "vencimento": "10/03/2014",
+                "valor": 440.23,
+                "pago": false
+            },
+            {
+                "vencimento": "30/10/2017",
+                "valor": 187.54,
+                "pago": false
+            },
+            {
+                "vencimento": "31/05/2016",
+                "valor": 497.36,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9120061cad806093d3",
+        "data": "13/08/2019",
+        "paciente": "Dominguez Mercado",
+        "procedimento": "brown",
+        "valor_cirurgia": "3,371.61",
+        "valor_outros": "1,240.88",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "06/05/2014",
+                "valor": 472.92,
+                "pago": false
+            },
+            {
+                "vencimento": "15/04/2014",
+                "valor": 193.32,
+                "pago": false
+            },
+            {
+                "vencimento": "31/03/2020",
+                "valor": 256.41,
+                "pago": false
+            },
+            {
+                "vencimento": "01/05/2014",
+                "valor": 148.78,
+                "pago": false
+            },
+            {
+                "vencimento": "01/07/2017",
+                "valor": 122.34,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91032281067bf80c90",
+        "data": "28/03/2014",
+        "paciente": "Margo Trevino",
+        "procedimento": "red",
+        "valor_cirurgia": "2,904.66",
+        "valor_outros": "1,872.94",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "04/02/2016",
+                "valor": 181.42,
+                "pago": false
+            },
+            {
+                "vencimento": "21/05/2019",
+                "valor": 488.03,
+                "pago": false
+            },
+            {
+                "vencimento": "17/01/2018",
+                "valor": 274.7,
+                "pago": false
+            },
+            {
+                "vencimento": "12/01/2018",
+                "valor": 162.29,
+                "pago": false
+            },
+            {
+                "vencimento": "25/01/2016",
+                "valor": 485.63,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91e8c1ca2ae9e76679",
+        "data": "03/01/2020",
+        "paciente": "Karina Gould",
+        "procedimento": "blue",
+        "valor_cirurgia": "3,748.26",
+        "valor_outros": "2,732.19",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "23/06/2019",
+                "valor": 318.24,
+                "pago": false
+            },
+            {
+                "vencimento": "16/04/2014",
+                "valor": 475.76,
+                "pago": false
+            },
+            {
+                "vencimento": "01/07/2015",
+                "valor": 297.21,
+                "pago": false
+            },
+            {
+                "vencimento": "08/01/2019",
+                "valor": 276.73,
+                "pago": false
+            },
+            {
+                "vencimento": "02/12/2014",
+                "valor": 106.56,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c918a5f38c902efa637",
+        "data": "01/12/2015",
+        "paciente": "Amy Hawkins",
+        "procedimento": "black",
+        "valor_cirurgia": "2,095.57",
+        "valor_outros": "3,477.89",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "03/04/2016",
+                "valor": 409.46,
+                "pago": false
+            },
+            {
+                "vencimento": "26/04/2019",
+                "valor": 158.53,
+                "pago": false
+            },
+            {
+                "vencimento": "13/06/2018",
+                "valor": 296.92,
+                "pago": false
+            },
+            {
+                "vencimento": "13/01/2014",
+                "valor": 284.59,
+                "pago": false
+            },
+            {
+                "vencimento": "18/05/2018",
+                "valor": 469,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91c05ccda12e7b6a75",
+        "data": "21/06/2017",
+        "paciente": "Lacy Sims",
+        "procedimento": "green",
+        "valor_cirurgia": "3,026.14",
+        "valor_outros": "3,821.47",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "21/02/2017",
+                "valor": 346.57,
+                "pago": false
+            },
+            {
+                "vencimento": "31/10/2015",
+                "valor": 248.74,
+                "pago": false
+            },
+            {
+                "vencimento": "21/03/2020",
+                "valor": 458.28,
+                "pago": false
+            },
+            {
+                "vencimento": "10/12/2019",
+                "valor": 493.39,
+                "pago": false
+            },
+            {
+                "vencimento": "03/03/2015",
+                "valor": 254,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c919679bf19f5ec481a",
+        "data": "14/02/2014",
+        "paciente": "Buchanan Daugherty",
+        "procedimento": "brown",
+        "valor_cirurgia": "1,968.20",
+        "valor_outros": "2,846.55",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "25/07/2020",
+                "valor": 164.61,
+                "pago": false
+            },
+            {
+                "vencimento": "25/03/2020",
+                "valor": 291.58,
+                "pago": false
+            },
+            {
+                "vencimento": "23/06/2016",
+                "valor": 277.53,
+                "pago": false
+            },
+            {
+                "vencimento": "24/11/2016",
+                "valor": 411.38,
+                "pago": false
+            },
+            {
+                "vencimento": "29/06/2017",
+                "valor": 404.36,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c919ff2ca5a305e1507",
+        "data": "22/02/2017",
+        "paciente": "Clay Douglas",
+        "procedimento": "blue",
+        "valor_cirurgia": "1,357.13",
+        "valor_outros": "2,172.33",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "28/03/2016",
+                "valor": 346.86,
+                "pago": false
+            },
+            {
+                "vencimento": "21/01/2015",
+                "valor": 460.33,
+                "pago": false
+            },
+            {
+                "vencimento": "10/02/2014",
+                "valor": 170.48,
+                "pago": false
+            },
+            {
+                "vencimento": "19/12/2018",
+                "valor": 414.58,
+                "pago": false
+            },
+            {
+                "vencimento": "05/08/2017",
+                "valor": 252.92,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9183d3800117492ab3",
+        "data": "24/04/2016",
+        "paciente": "Marci Romero",
+        "procedimento": "red",
+        "valor_cirurgia": "3,996.52",
+        "valor_outros": "2,686.12",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "28/07/2014",
+                "valor": 220.32,
+                "pago": false
+            },
+            {
+                "vencimento": "27/09/2015",
+                "valor": 274.85,
+                "pago": false
+            },
+            {
+                "vencimento": "18/02/2020",
+                "valor": 361.68,
+                "pago": false
+            },
+            {
+                "vencimento": "12/05/2020",
+                "valor": 399.86,
+                "pago": false
+            },
+            {
+                "vencimento": "13/08/2019",
+                "valor": 242.27,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91f8150387f4fa0ba2",
+        "data": "06/05/2015",
+        "paciente": "Sampson Park",
+        "procedimento": "blue",
+        "valor_cirurgia": "3,233.57",
+        "valor_outros": "2,890.71",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "27/03/2014",
+                "valor": 203.32,
+                "pago": false
+            },
+            {
+                "vencimento": "24/08/2016",
+                "valor": 437.39,
+                "pago": false
+            },
+            {
+                "vencimento": "23/01/2016",
+                "valor": 335.52,
+                "pago": false
+            },
+            {
+                "vencimento": "15/12/2016",
+                "valor": 462.53,
+                "pago": false
+            },
+            {
+                "vencimento": "30/03/2020",
+                "valor": 140.14,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91f85c3819114dcb68",
+        "data": "19/05/2017",
+        "paciente": "Warner Nicholson",
+        "procedimento": "yellow",
+        "valor_cirurgia": "2,815.80",
+        "valor_outros": "2,180.54",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "22/09/2017",
+                "valor": 499.1,
+                "pago": false
+            },
+            {
+                "vencimento": "30/05/2019",
+                "valor": 458.89,
+                "pago": false
+            },
+            {
+                "vencimento": "29/07/2018",
+                "valor": 183.72,
+                "pago": false
+            },
+            {
+                "vencimento": "01/06/2014",
+                "valor": 160.78,
+                "pago": false
+            },
+            {
+                "vencimento": "13/01/2020",
+                "valor": 467.81,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91bf63a510bf4fa7b1",
+        "data": "27/01/2020",
+        "paciente": "Ivy Ballard",
+        "procedimento": "red",
+        "valor_cirurgia": "3,990.75",
+        "valor_outros": "3,570.11",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "28/04/2019",
+                "valor": 358.51,
+                "pago": false
+            },
+            {
+                "vencimento": "30/01/2015",
+                "valor": 423.26,
+                "pago": false
+            },
+            {
+                "vencimento": "25/06/2015",
+                "valor": 390.95,
+                "pago": false
+            },
+            {
+                "vencimento": "15/05/2014",
+                "valor": 405.17,
+                "pago": false
+            },
+            {
+                "vencimento": "01/03/2019",
+                "valor": 483.81,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9144fe4443d6b6e095",
+        "data": "02/10/2018",
+        "paciente": "Nolan Nelson",
+        "procedimento": "yellow",
+        "valor_cirurgia": "1,839.84",
+        "valor_outros": "3,510.64",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "27/05/2019",
+                "valor": 238.2,
+                "pago": false
+            },
+            {
+                "vencimento": "12/07/2014",
+                "valor": 264.3,
+                "pago": false
+            },
+            {
+                "vencimento": "07/01/2016",
+                "valor": 236.64,
+                "pago": false
+            },
+            {
+                "vencimento": "06/10/2014",
+                "valor": 231.95,
+                "pago": false
+            },
+            {
+                "vencimento": "20/09/2014",
+                "valor": 288.09,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c910eb571037789cf70",
+        "data": "07/07/2016",
+        "paciente": "Ramos Reynolds",
+        "procedimento": "black",
+        "valor_cirurgia": "1,467.56",
+        "valor_outros": "2,264.69",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "06/02/2018",
+                "valor": 335.57,
+                "pago": false
+            },
+            {
+                "vencimento": "17/04/2019",
+                "valor": 406.25,
+                "pago": false
+            },
+            {
+                "vencimento": "24/08/2014",
+                "valor": 267.27,
+                "pago": false
+            },
+            {
+                "vencimento": "01/12/2019",
+                "valor": 189.01,
+                "pago": false
+            },
+            {
+                "vencimento": "30/03/2014",
+                "valor": 306.78,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c918eabf36423dfbbd0",
+        "data": "09/06/2018",
+        "paciente": "Deirdre Osborn",
+        "procedimento": "blue",
+        "valor_cirurgia": "1,776.44",
+        "valor_outros": "2,415.30",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "09/02/2015",
+                "valor": 336.91,
+                "pago": false
+            },
+            {
+                "vencimento": "18/03/2015",
+                "valor": 173.23,
+                "pago": false
+            },
+            {
+                "vencimento": "19/07/2017",
+                "valor": 217.94,
+                "pago": false
+            },
+            {
+                "vencimento": "22/02/2015",
+                "valor": 329.29,
+                "pago": false
+            },
+            {
+                "vencimento": "15/04/2017",
+                "valor": 365.14,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c916882f1d0ec6d9827",
+        "data": "16/06/2020",
+        "paciente": "Leola Leon",
+        "procedimento": "yellow",
+        "valor_cirurgia": "2,402.00",
+        "valor_outros": "3,237.64",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "06/02/2015",
+                "valor": 210.68,
+                "pago": false
+            },
+            {
+                "vencimento": "16/03/2018",
+                "valor": 414.43,
+                "pago": false
+            },
+            {
+                "vencimento": "10/07/2016",
+                "valor": 321.42,
+                "pago": false
+            },
+            {
+                "vencimento": "21/12/2016",
+                "valor": 162.66,
+                "pago": false
+            },
+            {
+                "vencimento": "10/08/2017",
+                "valor": 218.16,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91c953fa8bd3c8f9e8",
+        "data": "11/12/2015",
+        "paciente": "Mullen Sargent",
+        "procedimento": "red",
+        "valor_cirurgia": "1,255.34",
+        "valor_outros": "2,628.13",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "10/04/2019",
+                "valor": 432.43,
+                "pago": false
+            },
+            {
+                "vencimento": "08/07/2018",
+                "valor": 181.27,
+                "pago": false
+            },
+            {
+                "vencimento": "08/03/2015",
+                "valor": 354.01,
+                "pago": false
+            },
+            {
+                "vencimento": "20/06/2018",
+                "valor": 360.64,
+                "pago": false
+            },
+            {
+                "vencimento": "07/12/2018",
+                "valor": 245.85,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91cce332b097533e69",
+        "data": "23/05/2016",
+        "paciente": "Craft Golden",
+        "procedimento": "green",
+        "valor_cirurgia": "1,085.89",
+        "valor_outros": "1,929.19",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "29/05/2014",
+                "valor": 468.38,
+                "pago": false
+            },
+            {
+                "vencimento": "20/07/2015",
+                "valor": 414.19,
+                "pago": false
+            },
+            {
+                "vencimento": "03/10/2014",
+                "valor": 161.52,
+                "pago": false
+            },
+            {
+                "vencimento": "13/09/2016",
+                "valor": 113.03,
+                "pago": false
+            },
+            {
+                "vencimento": "01/08/2014",
+                "valor": 225.36,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9180528e45b1f2f50a",
+        "data": "08/03/2019",
+        "paciente": "Lillian Wilkinson",
+        "procedimento": "brown",
+        "valor_cirurgia": "2,661.68",
+        "valor_outros": "1,433.58",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "13/06/2018",
+                "valor": 413.76,
+                "pago": false
+            },
+            {
+                "vencimento": "19/06/2014",
+                "valor": 350.42,
+                "pago": false
+            },
+            {
+                "vencimento": "20/05/2016",
+                "valor": 411.5,
+                "pago": false
+            },
+            {
+                "vencimento": "16/07/2015",
+                "valor": 332.18,
+                "pago": false
+            },
+            {
+                "vencimento": "23/08/2016",
+                "valor": 224.67,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91156be299d0faca6a",
+        "data": "15/04/2014",
+        "paciente": "Dolly Collins",
+        "procedimento": "black",
+        "valor_cirurgia": "1,340.43",
+        "valor_outros": "2,088.84",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "03/06/2018",
+                "valor": 176.04,
+                "pago": false
+            },
+            {
+                "vencimento": "12/12/2014",
+                "valor": 399.06,
+                "pago": false
+            },
+            {
+                "vencimento": "12/08/2015",
+                "valor": 285.2,
+                "pago": false
+            },
+            {
+                "vencimento": "09/06/2014",
+                "valor": 178.54,
+                "pago": false
+            },
+            {
+                "vencimento": "06/11/2018",
+                "valor": 404.57,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91acc2243e226fee6a",
+        "data": "31/10/2018",
+        "paciente": "Burks Monroe",
+        "procedimento": "green",
+        "valor_cirurgia": "2,291.74",
+        "valor_outros": "2,372.60",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "20/02/2016",
+                "valor": 304.13,
+                "pago": false
+            },
+            {
+                "vencimento": "27/02/2020",
+                "valor": 201.91,
+                "pago": false
+            },
+            {
+                "vencimento": "22/08/2014",
+                "valor": 487.79,
+                "pago": false
+            },
+            {
+                "vencimento": "31/12/2017",
+                "valor": 310.94,
+                "pago": false
+            },
+            {
+                "vencimento": "25/03/2017",
+                "valor": 400.69,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c914eb44798e0e724e2",
+        "data": "10/12/2014",
+        "paciente": "Carey Webster",
+        "procedimento": "brown",
+        "valor_cirurgia": "2,698.00",
+        "valor_outros": "2,793.04",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "23/05/2019",
+                "valor": 416,
+                "pago": false
+            },
+            {
+                "vencimento": "26/01/2015",
+                "valor": 430.27,
+                "pago": false
+            },
+            {
+                "vencimento": "17/04/2014",
+                "valor": 486.94,
+                "pago": false
+            },
+            {
+                "vencimento": "14/05/2018",
+                "valor": 290.97,
+                "pago": false
+            },
+            {
+                "vencimento": "28/11/2016",
+                "valor": 189.53,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91c8fe157c25049040",
+        "data": "24/12/2016",
+        "paciente": "Elsa Waters",
+        "procedimento": "black",
+        "valor_cirurgia": "3,635.85",
+        "valor_outros": "3,494.40",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "15/12/2014",
+                "valor": 436.98,
+                "pago": false
+            },
+            {
+                "vencimento": "02/04/2014",
+                "valor": 367.8,
+                "pago": false
+            },
+            {
+                "vencimento": "26/06/2019",
+                "valor": 197.38,
+                "pago": false
+            },
+            {
+                "vencimento": "28/03/2014",
+                "valor": 256.18,
+                "pago": false
+            },
+            {
+                "vencimento": "15/07/2017",
+                "valor": 193.63,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c919b347dec08a73708",
+        "data": "21/06/2015",
+        "paciente": "Joy Parrish",
+        "procedimento": "green",
+        "valor_cirurgia": "1,369.35",
+        "valor_outros": "2,282.20",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "15/09/2019",
+                "valor": 147.25,
+                "pago": false
+            },
+            {
+                "vencimento": "23/03/2014",
+                "valor": 244.73,
+                "pago": false
+            },
+            {
+                "vencimento": "08/03/2017",
+                "valor": 223.12,
+                "pago": false
+            },
+            {
+                "vencimento": "28/01/2014",
+                "valor": 476.92,
+                "pago": false
+            },
+            {
+                "vencimento": "28/09/2018",
+                "valor": 351.14,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9118631e0960fe13a9",
+        "data": "30/05/2014",
+        "paciente": "Marisa Ferrell",
+        "procedimento": "brown",
+        "valor_cirurgia": "2,478.64",
+        "valor_outros": "2,751.83",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "17/12/2015",
+                "valor": 252.03,
+                "pago": false
+            },
+            {
+                "vencimento": "05/03/2019",
+                "valor": 257.64,
+                "pago": false
+            },
+            {
+                "vencimento": "08/12/2019",
+                "valor": 349.9,
+                "pago": false
+            },
+            {
+                "vencimento": "15/06/2014",
+                "valor": 254.71,
+                "pago": false
+            },
+            {
+                "vencimento": "30/12/2019",
+                "valor": 175.64,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9158fe9cb435c6654a",
+        "data": "01/10/2016",
+        "paciente": "Shauna Cox",
+        "procedimento": "red",
+        "valor_cirurgia": "2,324.02",
+        "valor_outros": "3,693.78",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "12/10/2019",
+                "valor": 266.05,
+                "pago": false
+            },
+            {
+                "vencimento": "03/05/2019",
+                "valor": 335,
+                "pago": false
+            },
+            {
+                "vencimento": "21/04/2017",
+                "valor": 128.63,
+                "pago": false
+            },
+            {
+                "vencimento": "17/11/2014",
+                "valor": 241.19,
+                "pago": false
+            },
+            {
+                "vencimento": "06/03/2019",
+                "valor": 383.6,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91c3393f566233c2ca",
+        "data": "10/05/2020",
+        "paciente": "Graves Pickett",
+        "procedimento": "brown",
+        "valor_cirurgia": "1,710.44",
+        "valor_outros": "2,187.50",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "29/11/2016",
+                "valor": 417.08,
+                "pago": false
+            },
+            {
+                "vencimento": "31/01/2017",
+                "valor": 182.81,
+                "pago": false
+            },
+            {
+                "vencimento": "29/01/2016",
+                "valor": 240.01,
+                "pago": false
+            },
+            {
+                "vencimento": "24/04/2020",
+                "valor": 184.27,
+                "pago": false
+            },
+            {
+                "vencimento": "24/04/2014",
+                "valor": 212.64,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9104513372f01b2524",
+        "data": "08/02/2017",
+        "paciente": "Wendi Dillard",
+        "procedimento": "blue",
+        "valor_cirurgia": "1,180.37",
+        "valor_outros": "1,065.24",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "05/02/2019",
+                "valor": 401.82,
+                "pago": false
+            },
+            {
+                "vencimento": "06/03/2018",
+                "valor": 107.7,
+                "pago": false
+            },
+            {
+                "vencimento": "07/12/2015",
+                "valor": 240.23,
+                "pago": false
+            },
+            {
+                "vencimento": "08/05/2020",
+                "valor": 268.06,
+                "pago": false
+            },
+            {
+                "vencimento": "31/03/2020",
+                "valor": 471.5,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91c367755d664f35f7",
+        "data": "03/09/2017",
+        "paciente": "Elba Macias",
+        "procedimento": "green",
+        "valor_cirurgia": "2,146.09",
+        "valor_outros": "2,743.10",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "12/10/2016",
+                "valor": 406.98,
+                "pago": false
+            },
+            {
+                "vencimento": "05/12/2014",
+                "valor": 332.79,
+                "pago": false
+            },
+            {
+                "vencimento": "04/04/2014",
+                "valor": 294.15,
+                "pago": false
+            },
+            {
+                "vencimento": "18/11/2015",
+                "valor": 376.87,
+                "pago": false
+            },
+            {
+                "vencimento": "14/04/2018",
+                "valor": 409.15,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c914ff4f33cc3557c20",
+        "data": "09/02/2018",
+        "paciente": "Gilbert Ochoa",
+        "procedimento": "red",
+        "valor_cirurgia": "2,984.26",
+        "valor_outros": "1,335.03",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "27/08/2016",
+                "valor": 157.08,
+                "pago": false
+            },
+            {
+                "vencimento": "08/02/2015",
+                "valor": 302.35,
+                "pago": false
+            },
+            {
+                "vencimento": "09/04/2014",
+                "valor": 236.16,
+                "pago": false
+            },
+            {
+                "vencimento": "18/05/2014",
+                "valor": 357.42,
+                "pago": false
+            },
+            {
+                "vencimento": "20/12/2018",
+                "valor": 227.02,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c916f031c7702541d4b",
+        "data": "13/05/2019",
+        "paciente": "Trevino Webb",
+        "procedimento": "green",
+        "valor_cirurgia": "3,606.24",
+        "valor_outros": "2,871.02",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "15/12/2015",
+                "valor": 112.37,
+                "pago": false
+            },
+            {
+                "vencimento": "02/04/2020",
+                "valor": 238.61,
+                "pago": false
+            },
+            {
+                "vencimento": "24/05/2017",
+                "valor": 208.37,
+                "pago": false
+            },
+            {
+                "vencimento": "13/10/2018",
+                "valor": 150.33,
+                "pago": false
+            },
+            {
+                "vencimento": "14/04/2020",
+                "valor": 476.3,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91be9732db95378a39",
+        "data": "13/03/2020",
+        "paciente": "Ester Shaffer",
+        "procedimento": "brown",
+        "valor_cirurgia": "2,505.94",
+        "valor_outros": "3,402.66",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "24/09/2017",
+                "valor": 422.48,
+                "pago": false
+            },
+            {
+                "vencimento": "25/09/2014",
+                "valor": 406.29,
+                "pago": false
+            },
+            {
+                "vencimento": "26/05/2019",
+                "valor": 156.98,
+                "pago": false
+            },
+            {
+                "vencimento": "27/02/2015",
+                "valor": 353.29,
+                "pago": false
+            },
+            {
+                "vencimento": "13/12/2017",
+                "valor": 296.57,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91ab3a600bb1bb8b9d",
+        "data": "08/05/2019",
+        "paciente": "Terri Wheeler",
+        "procedimento": "green",
+        "valor_cirurgia": "1,931.46",
+        "valor_outros": "3,691.53",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "15/04/2018",
+                "valor": 274.08,
+                "pago": false
+            },
+            {
+                "vencimento": "01/12/2019",
+                "valor": 263.44,
+                "pago": false
+            },
+            {
+                "vencimento": "06/11/2017",
+                "valor": 214.3,
+                "pago": false
+            },
+            {
+                "vencimento": "05/11/2018",
+                "valor": 206.83,
+                "pago": false
+            },
+            {
+                "vencimento": "07/09/2014",
+                "valor": 132.73,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c916cf94dad7d29b029",
+        "data": "27/09/2014",
+        "paciente": "Norma Lane",
+        "procedimento": "brown",
+        "valor_cirurgia": "2,137.97",
+        "valor_outros": "2,719.19",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "26/03/2020",
+                "valor": 310.2,
+                "pago": false
+            },
+            {
+                "vencimento": "15/07/2017",
+                "valor": 269.21,
+                "pago": false
+            },
+            {
+                "vencimento": "04/04/2019",
+                "valor": 202.95,
+                "pago": false
+            },
+            {
+                "vencimento": "24/02/2018",
+                "valor": 230.41,
+                "pago": false
+            },
+            {
+                "vencimento": "05/04/2015",
+                "valor": 460.85,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c915de4225b03777513",
+        "data": "18/07/2018",
+        "paciente": "Sandoval Molina",
+        "procedimento": "black",
+        "valor_cirurgia": "2,480.39",
+        "valor_outros": "3,308.19",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "07/05/2016",
+                "valor": 161.42,
+                "pago": false
+            },
+            {
+                "vencimento": "23/11/2019",
+                "valor": 309.29,
+                "pago": false
+            },
+            {
+                "vencimento": "17/05/2015",
+                "valor": 458.84,
+                "pago": false
+            },
+            {
+                "vencimento": "21/02/2015",
+                "valor": 222.42,
+                "pago": false
+            },
+            {
+                "vencimento": "12/12/2014",
+                "valor": 152.96,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9148731df31309f519",
+        "data": "05/08/2017",
+        "paciente": "Russo Kelly",
+        "procedimento": "blue",
+        "valor_cirurgia": "2,394.34",
+        "valor_outros": "2,522.92",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "31/05/2014",
+                "valor": 485.11,
+                "pago": false
+            },
+            {
+                "vencimento": "07/08/2019",
+                "valor": 273.17,
+                "pago": false
+            },
+            {
+                "vencimento": "31/12/2016",
+                "valor": 242.14,
+                "pago": false
+            },
+            {
+                "vencimento": "14/02/2015",
+                "valor": 195.74,
+                "pago": false
+            },
+            {
+                "vencimento": "16/04/2014",
+                "valor": 411.96,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91321874a4dcef2f14",
+        "data": "22/12/2014",
+        "paciente": "Gutierrez Raymond",
+        "procedimento": "blue",
+        "valor_cirurgia": "1,324.04",
+        "valor_outros": "1,928.52",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "15/02/2016",
+                "valor": 210.39,
+                "pago": false
+            },
+            {
+                "vencimento": "21/01/2020",
+                "valor": 420.49,
+                "pago": false
+            },
+            {
+                "vencimento": "11/12/2016",
+                "valor": 456.15,
+                "pago": false
+            },
+            {
+                "vencimento": "07/12/2014",
+                "valor": 446.62,
+                "pago": false
+            },
+            {
+                "vencimento": "11/03/2018",
+                "valor": 132.18,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91660dd7d3b3896834",
+        "data": "08/02/2019",
+        "paciente": "Humphrey Woodward",
+        "procedimento": "red",
+        "valor_cirurgia": "1,785.76",
+        "valor_outros": "1,845.19",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "04/06/2019",
+                "valor": 447.36,
+                "pago": false
+            },
+            {
+                "vencimento": "16/03/2017",
+                "valor": 286.71,
+                "pago": false
+            },
+            {
+                "vencimento": "18/09/2016",
+                "valor": 488.17,
+                "pago": false
+            },
+            {
+                "vencimento": "10/11/2015",
+                "valor": 262.97,
+                "pago": false
+            },
+            {
+                "vencimento": "19/12/2014",
+                "valor": 469.26,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9197fec5d02fee2f97",
+        "data": "08/07/2020",
+        "paciente": "Ofelia Farmer",
+        "procedimento": "yellow",
+        "valor_cirurgia": "2,068.69",
+        "valor_outros": "1,669.29",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "16/03/2015",
+                "valor": 417.13,
+                "pago": false
+            },
+            {
+                "vencimento": "18/12/2015",
+                "valor": 393.68,
+                "pago": false
+            },
+            {
+                "vencimento": "28/11/2015",
+                "valor": 351.91,
+                "pago": false
+            },
+            {
+                "vencimento": "12/02/2016",
+                "valor": 484.32,
+                "pago": false
+            },
+            {
+                "vencimento": "22/02/2018",
+                "valor": 222.92,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91a6b5e1d9b579b12d",
+        "data": "03/07/2020",
+        "paciente": "Sondra Tillman",
+        "procedimento": "brown",
+        "valor_cirurgia": "2,017.04",
+        "valor_outros": "2,407.14",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "10/06/2015",
+                "valor": 164.24,
+                "pago": false
+            },
+            {
+                "vencimento": "26/03/2014",
+                "valor": 175.62,
+                "pago": false
+            },
+            {
+                "vencimento": "23/10/2014",
+                "valor": 358.99,
+                "pago": false
+            },
+            {
+                "vencimento": "01/06/2016",
+                "valor": 495.98,
+                "pago": false
+            },
+            {
+                "vencimento": "09/05/2016",
+                "valor": 497.41,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91f8d64885baaa9c99",
+        "data": "18/08/2019",
+        "paciente": "Rose Patrick",
+        "procedimento": "brown",
+        "valor_cirurgia": "1,452.93",
+        "valor_outros": "2,257.33",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "09/09/2017",
+                "valor": 261.67,
+                "pago": false
+            },
+            {
+                "vencimento": "19/09/2014",
+                "valor": 434.57,
+                "pago": false
+            },
+            {
+                "vencimento": "04/08/2017",
+                "valor": 186.7,
+                "pago": false
+            },
+            {
+                "vencimento": "16/02/2018",
+                "valor": 313.34,
+                "pago": false
+            },
+            {
+                "vencimento": "15/06/2014",
+                "valor": 252.6,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9140288ded4e274802",
+        "data": "04/02/2014",
+        "paciente": "Patty Allen",
+        "procedimento": "blue",
+        "valor_cirurgia": "3,133.25",
+        "valor_outros": "3,158.26",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "30/08/2017",
+                "valor": 460.09,
+                "pago": false
+            },
+            {
+                "vencimento": "09/03/2014",
+                "valor": 124.88,
+                "pago": false
+            },
+            {
+                "vencimento": "13/06/2020",
+                "valor": 147.44,
+                "pago": false
+            },
+            {
+                "vencimento": "03/05/2015",
+                "valor": 118.13,
+                "pago": false
+            },
+            {
+                "vencimento": "26/03/2015",
+                "valor": 354.85,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91b058539ca134cb02",
+        "data": "20/06/2020",
+        "paciente": "Rivers Ramsey",
+        "procedimento": "red",
+        "valor_cirurgia": "2,863.78",
+        "valor_outros": "1,777.59",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "20/12/2018",
+                "valor": 460.82,
+                "pago": false
+            },
+            {
+                "vencimento": "08/09/2018",
+                "valor": 363.45,
+                "pago": false
+            },
+            {
+                "vencimento": "28/12/2019",
+                "valor": 487.77,
+                "pago": false
+            },
+            {
+                "vencimento": "06/01/2015",
+                "valor": 215,
+                "pago": false
+            },
+            {
+                "vencimento": "01/03/2016",
+                "valor": 166.92,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c917d8d2b248ddb1955",
+        "data": "12/05/2018",
+        "paciente": "Sullivan Morton",
+        "procedimento": "green",
+        "valor_cirurgia": "2,130.70",
+        "valor_outros": "3,660.37",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "28/04/2018",
+                "valor": 472.11,
+                "pago": false
+            },
+            {
+                "vencimento": "17/01/2018",
+                "valor": 363.46,
+                "pago": false
+            },
+            {
+                "vencimento": "11/02/2020",
+                "valor": 148.5,
+                "pago": false
+            },
+            {
+                "vencimento": "04/12/2014",
+                "valor": 365.62,
+                "pago": false
+            },
+            {
+                "vencimento": "13/09/2018",
+                "valor": 329.14,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9120016aded993b746",
+        "data": "27/11/2018",
+        "paciente": "Ebony Dunlap",
+        "procedimento": "brown",
+        "valor_cirurgia": "1,481.44",
+        "valor_outros": "2,247.18",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "25/04/2017",
+                "valor": 415.47,
+                "pago": false
+            },
+            {
+                "vencimento": "11/10/2019",
+                "valor": 106.07,
+                "pago": false
+            },
+            {
+                "vencimento": "06/06/2020",
+                "valor": 395.54,
+                "pago": false
+            },
+            {
+                "vencimento": "27/03/2019",
+                "valor": 209.79,
+                "pago": false
+            },
+            {
+                "vencimento": "08/04/2019",
+                "valor": 472.4,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c913805c804ab140b03",
+        "data": "13/05/2019",
+        "paciente": "Zelma Carroll",
+        "procedimento": "yellow",
+        "valor_cirurgia": "2,350.12",
+        "valor_outros": "1,180.33",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "30/04/2020",
+                "valor": 167.38,
+                "pago": false
+            },
+            {
+                "vencimento": "13/10/2017",
+                "valor": 435.39,
+                "pago": false
+            },
+            {
+                "vencimento": "26/10/2019",
+                "valor": 293.56,
+                "pago": false
+            },
+            {
+                "vencimento": "04/09/2015",
+                "valor": 119.14,
+                "pago": false
+            },
+            {
+                "vencimento": "28/03/2018",
+                "valor": 332.95,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c919db4c389f450757f",
+        "data": "13/11/2017",
+        "paciente": "Patrick Whitaker",
+        "procedimento": "brown",
+        "valor_cirurgia": "1,050.53",
+        "valor_outros": "1,147.17",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "22/11/2016",
+                "valor": 125.44,
+                "pago": false
+            },
+            {
+                "vencimento": "24/11/2017",
+                "valor": 193.79,
+                "pago": false
+            },
+            {
+                "vencimento": "01/03/2020",
+                "valor": 344.54,
+                "pago": false
+            },
+            {
+                "vencimento": "14/04/2020",
+                "valor": 182.48,
+                "pago": false
+            },
+            {
+                "vencimento": "19/04/2018",
+                "valor": 297.81,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9178c152e70f2489c8",
+        "data": "03/05/2018",
+        "paciente": "Alston Cochran",
+        "procedimento": "yellow",
+        "valor_cirurgia": "1,986.94",
+        "valor_outros": "1,634.89",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "25/02/2020",
+                "valor": 345.49,
+                "pago": false
+            },
+            {
+                "vencimento": "16/06/2017",
+                "valor": 362.49,
+                "pago": false
+            },
+            {
+                "vencimento": "04/09/2017",
+                "valor": 235.1,
+                "pago": false
+            },
+            {
+                "vencimento": "23/02/2020",
+                "valor": 236.03,
+                "pago": false
+            },
+            {
+                "vencimento": "18/05/2015",
+                "valor": 220.19,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c916d6fa52b2ed4e18d",
+        "data": "21/12/2015",
+        "paciente": "Dee Key",
+        "procedimento": "blue",
+        "valor_cirurgia": "2,934.80",
+        "valor_outros": "3,302.76",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "22/11/2015",
+                "valor": 455.62,
+                "pago": false
+            },
+            {
+                "vencimento": "21/06/2020",
+                "valor": 416.17,
+                "pago": false
+            },
+            {
+                "vencimento": "29/06/2016",
+                "valor": 173.18,
+                "pago": false
+            },
+            {
+                "vencimento": "16/10/2019",
+                "valor": 304.76,
+                "pago": false
+            },
+            {
+                "vencimento": "21/06/2017",
+                "valor": 347.99,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c912eff6180a4cb96ef",
+        "data": "16/10/2014",
+        "paciente": "Guerrero Gonzales",
+        "procedimento": "red",
+        "valor_cirurgia": "3,291.88",
+        "valor_outros": "2,310.40",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "27/03/2019",
+                "valor": 459.82,
+                "pago": false
+            },
+            {
+                "vencimento": "25/04/2014",
+                "valor": 397.64,
+                "pago": false
+            },
+            {
+                "vencimento": "21/10/2015",
+                "valor": 359.61,
+                "pago": false
+            },
+            {
+                "vencimento": "15/05/2014",
+                "valor": 327.48,
+                "pago": false
+            },
+            {
+                "vencimento": "26/07/2018",
+                "valor": 146.84,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91975336409b58323f",
+        "data": "04/05/2019",
+        "paciente": "Florine Pacheco",
+        "procedimento": "yellow",
+        "valor_cirurgia": "3,388.12",
+        "valor_outros": "1,949.42",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "17/05/2020",
+                "valor": 293,
+                "pago": false
+            },
+            {
+                "vencimento": "24/03/2017",
+                "valor": 385.6,
+                "pago": false
+            },
+            {
+                "vencimento": "30/06/2017",
+                "valor": 373.85,
+                "pago": false
+            },
+            {
+                "vencimento": "21/02/2018",
+                "valor": 374.04,
+                "pago": false
+            },
+            {
+                "vencimento": "18/10/2017",
+                "valor": 265.83,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91d25545f5ef18bc85",
+        "data": "17/01/2017",
+        "paciente": "Earlene Forbes",
+        "procedimento": "green",
+        "valor_cirurgia": "2,499.57",
+        "valor_outros": "3,497.41",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "01/08/2017",
+                "valor": 208.76,
+                "pago": false
+            },
+            {
+                "vencimento": "13/01/2015",
+                "valor": 411.62,
+                "pago": false
+            },
+            {
+                "vencimento": "10/04/2018",
+                "valor": 404.26,
+                "pago": false
+            },
+            {
+                "vencimento": "03/04/2019",
+                "valor": 407.44,
+                "pago": false
+            },
+            {
+                "vencimento": "24/04/2017",
+                "valor": 409.11,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9130fd07a99968852f",
+        "data": "18/04/2019",
+        "paciente": "Carlene Sharp",
+        "procedimento": "green",
+        "valor_cirurgia": "3,603.81",
+        "valor_outros": "2,849.03",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "12/01/2020",
+                "valor": 420.85,
+                "pago": false
+            },
+            {
+                "vencimento": "10/03/2020",
+                "valor": 369.51,
+                "pago": false
+            },
+            {
+                "vencimento": "26/02/2015",
+                "valor": 110.87,
+                "pago": false
+            },
+            {
+                "vencimento": "20/05/2019",
+                "valor": 242.57,
+                "pago": false
+            },
+            {
+                "vencimento": "03/05/2017",
+                "valor": 344.32,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9177cfb8fad09de22f",
+        "data": "22/08/2015",
+        "paciente": "Cain Francis",
+        "procedimento": "black",
+        "valor_cirurgia": "1,973.42",
+        "valor_outros": "2,840.87",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "16/05/2014",
+                "valor": 137.22,
+                "pago": false
+            },
+            {
+                "vencimento": "16/05/2019",
+                "valor": 202.08,
+                "pago": false
+            },
+            {
+                "vencimento": "28/04/2018",
+                "valor": 138.86,
+                "pago": false
+            },
+            {
+                "vencimento": "04/08/2018",
+                "valor": 285.32,
+                "pago": false
+            },
+            {
+                "vencimento": "13/05/2014",
+                "valor": 402.61,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91fb62ee5bb645539b",
+        "data": "01/07/2015",
+        "paciente": "Liz Dawson",
+        "procedimento": "red",
+        "valor_cirurgia": "2,911.93",
+        "valor_outros": "3,326.76",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "16/11/2018",
+                "valor": 377.86,
+                "pago": false
+            },
+            {
+                "vencimento": "22/01/2018",
+                "valor": 396.41,
+                "pago": false
+            },
+            {
+                "vencimento": "14/02/2015",
+                "valor": 431.88,
+                "pago": false
+            },
+            {
+                "vencimento": "23/11/2019",
+                "valor": 172.36,
+                "pago": false
+            },
+            {
+                "vencimento": "15/11/2017",
+                "valor": 431.49,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9117a3a03aef115819",
+        "data": "09/05/2016",
+        "paciente": "Winnie Lara",
+        "procedimento": "green",
+        "valor_cirurgia": "2,683.92",
+        "valor_outros": "3,401.81",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "12/01/2014",
+                "valor": 237.5,
+                "pago": false
+            },
+            {
+                "vencimento": "22/07/2019",
+                "valor": 253.1,
+                "pago": false
+            },
+            {
+                "vencimento": "04/12/2019",
+                "valor": 373.81,
+                "pago": false
+            },
+            {
+                "vencimento": "02/03/2015",
+                "valor": 128.89,
+                "pago": false
+            },
+            {
+                "vencimento": "18/03/2018",
+                "valor": 424.37,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c913fc25073b52d64ec",
+        "data": "01/03/2018",
+        "paciente": "Kent Hardin",
+        "procedimento": "black",
+        "valor_cirurgia": "3,710.39",
+        "valor_outros": "1,393.81",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "28/12/2016",
+                "valor": 440.93,
+                "pago": false
+            },
+            {
+                "vencimento": "10/03/2020",
+                "valor": 263.63,
+                "pago": false
+            },
+            {
+                "vencimento": "16/06/2020",
+                "valor": 212.97,
+                "pago": false
+            },
+            {
+                "vencimento": "04/10/2015",
+                "valor": 455.98,
+                "pago": false
+            },
+            {
+                "vencimento": "10/10/2019",
+                "valor": 300.99,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91fd8ab4fd7b760b78",
+        "data": "03/07/2017",
+        "paciente": "Naomi Buckley",
+        "procedimento": "brown",
+        "valor_cirurgia": "3,951.48",
+        "valor_outros": "1,060.26",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "07/05/2016",
+                "valor": 255.09,
+                "pago": false
+            },
+            {
+                "vencimento": "03/05/2019",
+                "valor": 265.09,
+                "pago": false
+            },
+            {
+                "vencimento": "12/02/2017",
+                "valor": 371.76,
+                "pago": false
+            },
+            {
+                "vencimento": "14/10/2015",
+                "valor": 490.61,
+                "pago": false
+            },
+            {
+                "vencimento": "22/06/2018",
+                "valor": 443.03,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91c26e687bf55d4a7e",
+        "data": "18/03/2016",
+        "paciente": "Shannon Snyder",
+        "procedimento": "yellow",
+        "valor_cirurgia": "2,217.37",
+        "valor_outros": "2,891.30",
+        "forma_pgto": "cheque",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "03/02/2015",
+                "valor": 497.11,
+                "pago": false
+            },
+            {
+                "vencimento": "12/04/2019",
+                "valor": 174.02,
+                "pago": false
+            },
+            {
+                "vencimento": "23/09/2014",
+                "valor": 475.18,
+                "pago": false
+            },
+            {
+                "vencimento": "31/03/2019",
+                "valor": 252.45,
+                "pago": false
+            },
+            {
+                "vencimento": "16/07/2015",
+                "valor": 417.86,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9107f0900ee96b329c",
+        "data": "26/09/2017",
+        "paciente": "Roberta Willis",
+        "procedimento": "yellow",
+        "valor_cirurgia": "3,430.83",
+        "valor_outros": "2,177.40",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "17/07/2018",
+                "valor": 449.1,
+                "pago": false
+            },
+            {
+                "vencimento": "12/06/2015",
+                "valor": 458.01,
+                "pago": false
+            },
+            {
+                "vencimento": "26/03/2015",
+                "valor": 310.96,
+                "pago": false
+            },
+            {
+                "vencimento": "19/04/2017",
+                "valor": 462.96,
+                "pago": false
+            },
+            {
+                "vencimento": "11/02/2015",
+                "valor": 181.97,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91913ef83deacece80",
+        "data": "01/06/2016",
+        "paciente": "Araceli Patel",
+        "procedimento": "green",
+        "valor_cirurgia": "2,503.90",
+        "valor_outros": "3,027.39",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "09/09/2017",
+                "valor": 376.63,
+                "pago": false
+            },
+            {
+                "vencimento": "24/01/2016",
+                "valor": 240.36,
+                "pago": false
+            },
+            {
+                "vencimento": "18/09/2016",
+                "valor": 412.37,
+                "pago": false
+            },
+            {
+                "vencimento": "25/11/2018",
+                "valor": 415.72,
+                "pago": false
+            },
+            {
+                "vencimento": "14/07/2014",
+                "valor": 177.92,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91adaa65cfe9c21908",
+        "data": "07/03/2017",
+        "paciente": "Stewart Odonnell",
+        "procedimento": "brown",
+        "valor_cirurgia": "1,462.29",
+        "valor_outros": "2,895.52",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "11/10/2017",
+                "valor": 176.7,
+                "pago": false
+            },
+            {
+                "vencimento": "10/06/2016",
+                "valor": 341.42,
+                "pago": false
+            },
+            {
+                "vencimento": "26/07/2014",
+                "valor": 288.03,
+                "pago": false
+            },
+            {
+                "vencimento": "06/05/2016",
+                "valor": 356.53,
+                "pago": false
+            },
+            {
+                "vencimento": "27/03/2016",
+                "valor": 380.98,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c910ac1539d08ff6557",
+        "data": "22/06/2015",
+        "paciente": "Merritt Williamson",
+        "procedimento": "blue",
+        "valor_cirurgia": "2,972.41",
+        "valor_outros": "3,982.28",
+        "forma_pgto": "cartão",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "28/11/2014",
+                "valor": 262.99,
+                "pago": false
+            },
+            {
+                "vencimento": "05/03/2018",
+                "valor": 139.3,
+                "pago": false
+            },
+            {
+                "vencimento": "11/10/2019",
+                "valor": 131.81,
+                "pago": false
+            },
+            {
+                "vencimento": "07/06/2020",
+                "valor": 450.56,
+                "pago": false
+            },
+            {
+                "vencimento": "18/03/2014",
+                "valor": 220.86,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c91c2e8abb46eee61e5",
+        "data": "01/10/2017",
+        "paciente": "Ewing Collier",
+        "procedimento": "black",
+        "valor_cirurgia": "1,269.91",
+        "valor_outros": "2,963.72",
+        "forma_pgto": "deposito",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "28/03/2014",
+                "valor": 359.36,
+                "pago": false
+            },
+            {
+                "vencimento": "28/10/2019",
+                "valor": 379.53,
+                "pago": false
+            },
+            {
+                "vencimento": "18/01/2015",
+                "valor": 232.47,
+                "pago": false
+            },
+            {
+                "vencimento": "21/12/2019",
+                "valor": 164.12,
+                "pago": false
+            },
+            {
+                "vencimento": "31/07/2014",
+                "valor": 278.13,
+                "pago": false
+            }
+        ]
+    },
+    {
+        "id": "5f1f7c9150e3817809a052d4",
+        "data": "28/10/2016",
+        "paciente": "Kirkland Wolfe",
+        "procedimento": "green",
+        "valor_cirurgia": "2,102.32",
+        "valor_outros": "3,682.00",
+        "forma_pgto": "dinheiro",
+        "parcelas": 5,
+        "duplicata": [
+            {
+                "vencimento": "05/12/2018",
+                "valor": 250.79,
+                "pago": false
+            },
+            {
+                "vencimento": "06/03/2014",
+                "valor": 166.34,
+                "pago": false
+            },
+            {
+                "vencimento": "07/09/2018",
+                "valor": 467.36,
+                "pago": false
+            },
+            {
+                "vencimento": "05/07/2015",
+                "valor": 378.54,
+                "pago": false
+            },
+            {
+                "vencimento": "01/03/2014",
+                "valor": 218.76,
+                "pago": false
+            }
+        ]
+    }
+]
