@@ -1,22 +1,17 @@
 // import something here
 
-import firebase from 'firebase/app'
-import 'firebase/auth'
-import 'firebase/database'
+import firebase from "firebase/app";
+import "firebase/auth";
+import "firebase/database";
+import { firebaseConfig } from "./config";
 
 // "async" is optional
 export default async ({ Vue }) => {
-  
-
   // Initialize Firebase
-  firebase.initializeApp(firebaseConfig)
+  firebase.initializeApp(firebaseConfig);
 
-  firebase.auth().languageCode = 'pt'
+  firebase.auth().languageCode = "pt";
 
-  Vue.prototype.$auth = firebase.auth
-  Vue.prototype.$database = firebase.database
-}
-
-
-
-
+  Vue.prototype.$auth = firebase.auth;
+  Vue.prototype.$database = firebase.database;
+};
