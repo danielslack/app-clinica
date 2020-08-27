@@ -9,10 +9,13 @@ Aplicativo para gestão de recebimentos de Clinica, o aplicativo utiliza o frame
 
 
 * Na pasta do projeto instalar os pacotes do node
-> npm install ou yarn install
+ ```
+ npm install ou yarn install
+```
 
 * Na pasta src/boot criar um arquivo chamado config.js e incluir as configurações do firebase
 #### Substituir pela configuração do seu projeto
+```
 const firebaseConfig = {
     apiKey: "",
     authDomain: "",
@@ -25,3 +28,4 @@ const firebaseConfig = {
   }
 
   export { firebaseConfig };
+```
