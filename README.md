@@ -31,9 +31,9 @@ const firebaseConfig = {
 ```
 
 ## Implementações necessárias
--[ ] Permitir edições no cadastro - Atendente
--[ ] Permitir edições no cadastro de procedimentos
--[ ] Permitir edições no cadastro de procedimentos/parcelas
--[ ] Incluir data atual quando pagamento for aceito
--[ ] Incluir data de cadastro interna nas tabelas
--[ ] Criar relatório de comissão por atendente
+- [ ] Permitir edições no cadastro - Atendente
+- [ ] Permitir edições no cadastro de procedimentos
+- [ ] Permitir edições no cadastro de procedimentos/parcelas
+- [ ] Incluir data atual quando pagamento for aceito
+- [ ] Incluir data de cadastro interna nas tabelas
+- [ ] Criar relatório de comissão por atendente
